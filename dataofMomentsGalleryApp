@@ -1,5 +1,23 @@
 [
   {
+    "id": "27",
+    "embedUrl": "https://www.instagram.com/p/DZe41cRmltc/?igsh=MWY5cTZmdzk3cTRxOQ==",
+    "imageUrl": "/pins/7.png",
+    "title": "Traditional Orange & Gold Lehenga Portrait",
+    "author": "TraditionalArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/27.jpg",
+    "prompt": "A young woman stands centered in a traditional Indian lehenga of vibrant orange and gold, her attire featuring intricate brocade patterns that catch soft, ambient light. She is positioned against an elaborate floral backdrop composed of hanging garlands in cream, yellow, and deep orange, punctuated by large, circular marigold arrangements that provide a symmetrical, textured geometry. The lighting is diffused and even, typical of a well-lit event space, highlighting the delicate subsurface scattering on the flower petals and the metallic sheen of her jewelry. The composition is balanced and frontal, emphasizing the rich, warm color palette and the dense, vertical layering of the floral decor, creating a festive, celebratory atmosphere with a shallow depth of field that gently softens the background foliage.\n\nStyle: High-resolution event photography, editorial portrait\n\nKey elements: Indian woman, lehenga, marigold garlands, floral backdrop, traditional jewelry\n\nLighting: Diffused, even soft-box illumination, warm color temperature\n\nCamera: Full-body shot, 50mm lens, eye-level perspective",
+    "filter": [
+      "Aesthetic",
+      "Portrait",
+      "Cinematic",
+      "Women's",
+      "Fashion"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "26",
     "embedUrl": "https://www.instagram.com/p/DZezZH8ml4c/?igsh=bmpzOG9lcjczb21v",
     "imageUrl": "/pins/6.png",
