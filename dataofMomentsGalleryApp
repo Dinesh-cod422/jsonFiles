@@ -1,5 +1,23 @@
 [
   {
+    "id": "28",
+    "embedUrl": "https://www.instagram.com/p/DZe8h4qmir8/?igsh=amYycnM3N3dmNTZk",
+    "imageUrl": "/pins/8.png",
+    "title": "Ultra-Realistic Cinematic Bubble Portrait",
+    "author": "BubbleArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/28.jpg",
+    "prompt": "ULTRA-REALISTIC CINEMATIC PORTRAIT\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nFACE REFERENCE PRESERVATION\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nUse the uploaded reference image ONLY for:\n\n• Exact facial identity\n• Face shape and facial proportions\n• Eye shape and eye spacing\n• Eyebrow shape\n• Nose structure\n• Lip shape\n• Jawline and cheekbone structure\n• Skin tone\n• Hairline\n• Natural facial features\n\nMaintain 95-100% facial resemblance to the reference image.\n\nDo NOT alter:\n• Facial identity\n• Face proportions\n• Eye characteristics\n• Nose shape\n• Lip structure\n• Jawline\n\nOnly change:\n• Outfit\n• Pose\n• Environment\n• Lighting\n• Hairstyling details\n• Expression (while preserving identity)\n\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\nSCENE\n━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n\nUltra-realistic cinematic portrait of the woman from the uploaded reference image outdoors in a lush green garden, blowing soap bubbles with a bubble wand held near her lips, dreamy gaze directly into camera.\n\nLong wavy dark brown hair flowing naturally with soft wind-blown strands across forehead, flawless glowing skin, subtle peach makeup, natural pink lips slightly parted.\n\nWearing an elegant white vintage lace blouse with intricate embroidery and puffed sleeves.\n\nDozens of floating iridescent soap bubbles surrounding her at various depths, some large foreground bubbles creating depth and cinematic bokeh.\n\nGolden hour sunlight filtering through trees, warm rim lighting on hair, creamy green background blur, shallow depth of field.\n\nProfessional fashion photography, high-end magazine editorial, realistic skin texture, ultra detailed eyes, HDR, natural sunlight, 85mm lens, f/1.4.\n\nPhotorealistic, masterpiece quality, extremely sharp focus on face, soft dreamy atmosphere, cinematic color grading, vertical composition, 8K ultra-detailed.",
+    "filter": [
+      "Aesthetic",
+      "Portrait",
+      "Cinematic",
+      "Women's",
+      "Fashion"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "27",
     "embedUrl": "https://www.instagram.com/p/DZe41cRmltc/?igsh=MWY5cTZmdzk3cTRxOQ==",
     "imageUrl": "/pins/7.png",
