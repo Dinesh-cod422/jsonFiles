@@ -1,5 +1,39 @@
 [
   {
+    "id": "34",
+    "embedUrl": "https://www.instagram.com/p/DZnDoRwmjEI/?igsh=MW8zMzN6cDU3M2Zt",
+    "imageUrl": "/pins/1.webp",
+    "title": "Ultra-Realistic Face Replacement Prompt",
+    "author": "PortraitArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/34.jpg",
+    "prompt": "ULTRA-REALISTIC FACE REPLACEMENT PROMPT\n\nUse the uploaded reference image as the only facial identity reference. Replace the face of the woman in the scene with the face from the uploaded image while preserving the exact facial features, face shape, skin texture, eyes, eyebrows, nose, lips, jawline, hairstyle, hairline, and natural expression from the reference photo.\n\nCreate an ultra-photorealistic portrait of the same woman sitting gracefully on a minimalist black metal bench positioned inside a large circular floral arch. The arch is richly decorated with glowing warm-white LED lights, hanging green vines, pink roses, bougainvillea flowers, and lush foliage. A vibrant neon \"LOVE\" sign glows above the arch in pink and orange tones.\n\nThe woman is wearing an elegant white floral-printed salwar kameez with intricate pastel embroidery and a matching dupatta draped naturally over her shoulder. She has soft natural makeup, subtle red lipstick, delicate jewelry, and loose side-parted wavy hair. Her hands are folded elegantly on her lap, maintaining direct eye contact with the camera and a warm genuine smile.\n\nBackground features a lively nighttime outdoor garden festival with decorative string lights, colorful market stalls, cinematic bokeh, and softly blurred people walking in the distance. Warm ambient lighting illuminates the subject while preserving realistic skin tones and facial details.\n\nCamera Settings:\n\nFull-body portrait\n\nEye-level composition\n\n85mm lens\n\nf/1.8 aperture\n\nUltra-sharp facial details\n\nShallow depth of field\n\nCinematic bokeh\n\nHDR lighting\n\nProfessional color grading\n\nNatural skin texture\n\nRealistic fabric details\n\nHigh dynamic range\n\nPerfect focus on face and eyes\n\nQuality Tags: Ultra realistic, photorealistic, 8K, masterpiece, RAW photography, DSLR quality, cinematic lighting, realistic shadows, natural colors, highly detailed face, professional portrait photography, award-winning photograph, hyperrealistic, maximum detail, true-to-life skin texture.\n\nNegative Prompt: cartoon, anime, painting, illustration, CGI, 3D render, low resolution, blurry face, distorted eyes, extra fingers, extra limbs, duplicated features, bad anatomy, overexposed, underexposed, unrealistic skin, artificial smile, plastic skin, watermark, text, logo, cropped body, deformed hands, face mismatch, identity drift, inaccurate facial features.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Women's"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
+    "id": "33",
+    "embedUrl": "https://www.instagram.com/p/DZnGD7Mmq5h/?igsh=MTdwOHIzNGExbnZobQ==",
+    "imageUrl": "/pins/2.webp",
+    "title": "Cinematic Golden Hour Village Couple Portrait",
+    "author": "CoupleArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/33.jpg",
+    "prompt": "TITLE: CINEMATIC GOLDEN HOUR VILLAGE COUPLE PORTRAIT\n\nCreate an ultra-realistic romantic couple portrait using the uploaded male and female reference images ONLY for accurate facial identity preservation.\n\n━━━━━━━━━━━━━━━━━━━━ FACE MATCHING RULE ━━━━━━━━━━━━━━━━━━━━\n\nUse uploaded reference images ONLY for:\n\nMALE:\n\nexact facial identity\n\nhairstyle\n\nbeard style\n\nskin tone\n\nfacial structure\n\neye shape\n\njawline\n\nfacial proportions\n\nnatural smile\n\nFEMALE:\n\nexact facial identity\n\nhairstyle\n\nskin tone\n\nfacial structure\n\neye shape\n\njawline\n\nfacial proportions\n\nnatural smile\n\nMaintain extremely high face similarity for both people.\n\nNever:\n\nchange gender\n\nchange age\n\nchange ethnicity\n\nadd extra people\n\n━━━━━━━━━━━━━━━━━━━━ FULL BODY GENERATION RULE ━━━━━━━━━━━━━━━━━━━━\n\nIf uploaded images are:\n\nselfie\n\nclose-up\n\nhalf-body\n\nchest-up\n\nside profile\n\nGenerate realistic full-body anatomy while maintaining exact identity.\n\n━━━━━━━━━━━━━━━━━━━━ POSE RULE ━━━━━━━━━━━━━━━━━━━━\n\nRecreate the SAME ROMANTIC INTERACTION as the reference image.\n\nMale carrying female on his back.\n\nFemale hugging him from behind.\n\nFemale resting naturally on his shoulders.\n\nBoth laughing happily.\n\nNatural candid chemistry.\n\nGenuine emotional connection.\n\nLooking away naturally, not posing stiffly.\n\nJoyful countryside moment.\n\n━━━━━━━━━━━━━━━━━━━━ OUTFIT RULE ━━━━━━━━━━━━━━━━━━━━\n\nAllow clothing colors to be customized by the user.\n\nDefault Style:\n\nMale:\n\ncasual polo t-shirt\n\nsimple everyday styling\n\ndark pants\n\nFemale:\n\ntraditional kurti\n\nelegant casual outfit\n\nnatural hairstyle\n\nClothing should feel realistic and relatable.\n\n━━━━━━━━━━━━━━━━━━━━ LOCATION ━━━━━━━━━━━━━━━━━━━━\n\nBeautiful green paddy field.\n\nInclude:\n\nlush rice fields\n\nvillage atmosphere\n\ncountryside pathway\n\ndistant houses\n\nsoft greenery\n\nopen landscape\n\n━━━━━━━━━━━━━━━━━━━━ LIGHTING ━━━━━━━━━━━━━━━━━━━━\n\nGolden hour sunset lighting.\n\nwarm sunlight\n\nglowing rim light on hair\n\ncinematic sun flare\n\nsoft highlights\n\nwarm romantic mood\n\nrealistic shadows\n\n━━━━━━━━━━━━━━━━━━━━ BACKGROUND ━━━━━━━━━━━━━━━━━━━━\n\nvillage houses\n\nblurred countryside scenery\n\nsoft sunset sky\n\ndreamy bokeh\n\nnatural depth of field\n\nrealistic environment\n\n━━━━━━━━━━━━━━━━━━━━ MOOD ━━━━━━━━━━━━━━━━━━━━\n\nromantic\n\nhappy\n\ncandid\n\nplayful\n\nemotional\n\nnatural\n\nwholesome\n\nvillage love story\n\n━━━━━━━━━━━━━━━━━━━━ CAMERA ━━━━━━━━━━━━━━━━━━━━\n\nSony A7R V\n\n85mm Portrait Lens\n\nf/1.4 Aperture\n\nProfessional outdoor portrait photography\n\nUltra shallow depth of field\n\n━━━━━━━━━━━━━━━━━━━━ COMPOSITION ━━━━━━━━━━━━━━━━━━━━\n\nVertical Instagram portrait\n\nFull body visible\n\nCouple centered\n\nWalking toward camera\n\nFemale riding piggyback\n\nCinematic framing\n\nProfessional engagement-style photography\n\n━━━━━━━━━━━━━━━━━━━━ QUALITY ━━━━━━━━━━━━━━━━━━━━\n\nexact face matching\n\nrealistic skin texture\n\nrealistic eyes\n\nrealistic smiles\n\nrealistic hands\n\nrealistic anatomy\n\ndetailed clothing textures\n\ncinematic color grading\n\nultra realistic lighting\n\nphotorealistic 8K quality\n\n━━━━━━━━━━━━━━━━━━━━ IDENTITY PRESERVATION ━━━━━━━━━━━━━━━━━━━━\n\nUse uploaded reference images ONLY for identity.\n\nDo NOT copy:\n\noriginal background\n\noriginal clothing\n\noriginal lighting\n\noriginal composition\n\nGenerate a new image inspired by the reference scene while preserving exact facial identities.\n\n━━━━━━━━━━━━━━━━━━━━ NEGATIVE PROMPT ━━━━━━━━━━━━━━━━━━━━\n\nwrong face, inaccurate face match, low face similarity, face swap artifacts, extra people, duplicate people, blurry face, bad anatomy, extra fingers, missing fingers, distorted hands, unrealistic skin texture, low quality render, watermark, logo, text, cartoon style, CGI look, oversaturated colors, cropped body",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Couple",
+      "Portrait"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 2
+  },
+  {
     "id": "32",
     "embedUrl": "https://www.instagram.com/p/DZkKxuEGoCP/?igsh=eDVwZzdoMGk4aXg0",
     "imageUrl": "/pins/1.webp",
