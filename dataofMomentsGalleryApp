@@ -1,5 +1,22 @@
 [
   {
+    "id": "42",
+    "embedUrl": "https://www.instagram.com/p/DZwL6lNGhpt/?igsh=a3I5cGtzaHZzcW8w",
+    "imageUrl": "/pins/5.webp",
+    "title": "REFERENCE FACE RULE (IMPO...",
+    "author": "ArtisticSoul",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/44.jpg",
+    "prompt": "REFERENCE FACE RULE (IMPORTANT)\n\nUse the uploaded reference photo ONLY for the exact facial identity, facial structure, skin tone, hairstyle, eye shape, smile details, and natural facial features.\n\nDo not alter the facial identity.\n\nSCENE\n\nCreate an ultra-realistic professional office fashion photoshoot collage featuring the person from the reference image.\n\nThe collage contains 3 different photos:\n\n1. Left Large Portrait:\n- Medium close-up shot\n- Standing confidently\n- Wearing a premium dark brown oversized satin shirt with rolled sleeves\n- Black high-waist formal trousers\n- Black stylish sunglasses\n- Luxury wristwatch and elegant earrings\n- Soft natural smile\n- Looking directly at the camera\n\n2. Top Right Full Body Shot:\n- Walking confidently toward the camera\n- One hand inside pocket\n- Wearing white sneakers\n- Fashion-model walking pose\n- Natural body posture\n\n3. Bottom Right Sitting Shot:\n- Sitting casually on outdoor steps\n- One hand touching hair\n- Relaxed confident expression\n- Stylish boss-lady pose\n\nBACKGROUND\n\nLuxury corporate outdoor environment with modern architecture, cream-colored walls, green plants, flowers, and soft natural daylight.\n\nPHOTOGRAPHY\n\nUltra-realistic photography,\nprofessional fashion editorial,\n85mm lens,\nshallow depth of field,\nsoft golden natural lighting,\nhigh-end magazine quality,\nsharp facial details,\nrealistic skin texture,\npremium color grading,\nInstagram luxury aesthetic,\n8K resolution.\n\nCOLLAGE FORMAT\n\nThree-photo vertical collage layout exactly like a professional fashion magazine cover, balanced composition, realistic shadows, natural proportions.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Women's",
+      "Fashion"
+    ],
+    "Tstatus": "Normal",
+    "TrendingPosition": 1
+  },
+  {
     "id": "41",
     "embedUrl": "https://www.instagram.com/p/DZvwaw7E7ka/?img_index=3&igsh=MTgwdGs5djA4bHFkcA==",
     "imageUrl": "/pins/3.webp",
