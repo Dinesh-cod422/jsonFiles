@@ -1,5 +1,22 @@
 [
   {
+    "id": "48",
+    "embedUrl": "https://www.instagram.com/p/DZzcyHPGmKU/?igsh=MTRpeWYzc2h2Y29uNg==",
+    "imageUrl": "/pins/8.webp",
+    "title": "Create a highly realistic...",
+    "author": "AestheticVibes",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/62.jpg",
+    "prompt": "Create a highly realistic and cinematic birthday celebration scene featuring me standing beside actor-politician Vijay (Thalapathy Vijay). Keep my face exactly the same as in the uploaded reference image. I am warmly hugging Vijay with one arm while respectfully presenting a beautiful bouquet of red roses with the other hand. Vijay is smiling happily and accepting the flowers. The atmosphere is festive with elegant birthday decorations, golden lights, balloons, and a large \"Happy Birthday Thalapathy\" backdrop. Both of us are looking at the camera. Emotional and heartwarming moment, photorealistic, ultra-detailed facial features, natural skin tones, cinematic lighting, shallow depth of field, luxury event ambiance, 8K quality, vertical Instagram Story format (9:16), realistic expressions, premium photography style.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Fashion",
+      "Portrait"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "47",
     "embedUrl": "https://www.instagram.com/p/DZzThcIGn_1/?igsh=emQyYWo1bnJpdzA1",
     "imageUrl": "/pins/6.webp",
