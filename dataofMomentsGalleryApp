@@ -1,5 +1,23 @@
 [
   {
+    "id": "52",
+    "embedUrl": "https://www.instagram.com/p/DZ5P5ASGj1g/?igsh=MXB6cXo3OHd0c2N2eA==",
+    "imageUrl": "/pins/4.webp",
+    "title": "Cinematic Nature Portrait Generator",
+    "author": "CinematicArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/79.jpg",
+    "prompt": "TITLE: CINEMATIC NATURE PORTRAIT GENERATOR\n\nREFERENCE FACE MATCHING RULE (HIGHEST PRIORITY)\n\nUse the uploaded reference image ONLY for:\n\n• exact facial identity • face shape • eyes • eyebrows • nose • lips • jawline • skin tone • hairstyle • facial hair • hairline • facial proportions • natural expression\n\nPreserve the exact identity with maximum realism and face fidelity.\n\n━━━━━━━━━━━━━━━━━━━━\n\nSMART SUBJECT RULE\n\nIf uploaded reference image is:\n\n• Male → generate male only • Female → generate female only • Child → generate child only\n\nNever change gender. Never add extra people.\n\n━━━━━━━━━━━━━━━━━━━━\n\nSCENE\n\nUltra-realistic cinematic outdoor portrait in a lush tropical green environment.\n\nThe subject is standing naturally among dense green foliage and soft sunlit leaves.\n\nBody turned slightly sideways while looking back directly toward the camera.\n\nNatural confident expression.\n\nRelaxed posture.\n\nThe subject is holding a pair of sunglasses casually in one hand.\n\nLuxury candid celebrity-style portrait.\n\nInstagram aesthetic.\n\n━━━━━━━━━━━━━━━━━━━━\n\nOUTFIT\n\nElegant charcoal black linen shirt.\n\nSleeves rolled up naturally.\n\nPremium wristwatch.\n\nMinimal accessories.\n\nModern stylish appearance.\n\nNatural fabric folds.\n\n━━━━━━━━━━━━━━━━━━━━\n\nPOSE\n\n• body turned sideways • face looking back toward camera • relaxed shoulders • natural standing pose • one hand holding sunglasses • confident expression • effortless candid look\n\n━━━━━━━━━━━━━━━━━━━━\n\nBACKGROUND\n\nDense tropical greenery.\n\nNatural leaves and foliage.\n\nSoft blurred vegetation.\n\nWarm golden sunlight filtering through trees.\n\nRich green tones.\n\nLuxury outdoor atmosphere.\n\n━━━━━━━━━━━━━━━━━━━━\n\nLIGHTING\n\nGolden hour sunlight.\n\nWarm cinematic highlights.\n\nNatural skin glow.\n\nSoft shadows.\n\nLuxury portrait lighting.\n\nBeautiful rim light on hair.\n\nNatural color grading.\n\nDreamy bokeh background.\n\n━━━━━━━━━━━━━━━━━━━━\n\nCAMERA SETTINGS\n\nSony A7R V\n\n85mm portrait lens\n\nf/1.4 aperture\n\nUltra shallow depth of field\n\nProfessional outdoor photography\n\n8K Ultra-HD\n\nVertical composition\n\n━━━━━━━━━━━━━━━━━━━━\n\nQUALITY REQUIREMENTS\n\n• exact face replacement from uploaded reference image • maximum facial identity preservation • realistic skin texture • realistic eyes • realistic facial hair • realistic hair strands • perfect anatomy • realistic hands and fingers • seamless face integration • sharp focus on face • luxury portrait quality • premium color grading • cinematic depth • photorealistic 8K masterpiece • Instagram viral quality\n\n━━━━━━━━━━━━━━━━━━━━\n\nIMPORTANT\n\nUse uploaded reference image ONLY for identity.\n\nDo NOT copy: • original clothes from reference image • original background • original lighting\n\nRecreate the same composition, pose, framing, natural greenery, facial angle, body position, and cinematic mood as the reference image while preserving the exact identity from the uploaded reference image.\n\nFace accuracy priority: MAXIMUM. Identity preservation: 100%. Photorealism: MAXIMUM.\n\nPreserve the exact facial identity from the uploaded reference image with maximum fidelity, matching the same eyes, nose, lips, jawline, skin tone, facial proportions, hairstyle, facial hair, and overall appearance.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Men's",
+      "Fashion"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "51",
     "embedUrl": "https://www.instagram.com/p/DZ5K3YImpKu/?igsh=M3h3YjU4NDJpM21y",
     "imageUrl": "/pins/6.webp",
