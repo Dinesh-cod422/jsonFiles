@@ -1,5 +1,22 @@
 [
   {
+    "id": "50",
+    "embedUrl": "https://www.instagram.com/p/DZ5Gk9ZGjn_/?igsh=MTRxaWpoaTZodzRxeQ==",
+    "imageUrl": "/pins/10.webp",
+    "title": "Cinematic South Indian Romantic Couple Portrait Generator",
+    "author": "ArtisticSoul",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/84.jpg",
+    "prompt": "TITLE: CINEMATIC SOUTH INDIAN ROMANTIC COUPLE PORTRAIT GENERATOR\n\nREFERENCE FACE MATCHING RULE (HIGHEST PRIORITY)\n\nUse the uploaded male and female reference images ONLY for:\n\n• exact facial identity • face shape • eyes • eyebrows • nose • lips • jawline • hairstyle • hairline • skin tone • facial proportions • facial expressions\n\nPreserve both faces with maximum identity accuracy and realism.\n\nIf only one image is uploaded: → generate only that person.\n\nIf both male and female reference images are uploaded: → generate both people only.\n\nNever add extra people.\n\n━━━━━━━━━━━━━━━━━━━━\n\nSCENE\n\nUltra-realistic cinematic South Indian romantic couple portrait.\n\nThe woman stands in the foreground wearing a rich traditional orange silk saree with luxurious gold zari borders and elegant South Indian bridal jewelry.\n\nThe man stands directly behind her, gently wrapping both arms around her waist and shoulders in a loving embrace.\n\nThe woman smiles warmly toward the camera.\n\nThe man looks affectionately toward the woman with a calm romantic expression.\n\nNatural chemistry between the couple.\n\nShoulder-up to waist-up framing.\n\nRomantic close composition.\n\n━━━━━━━━━━━━━━━━━━━━\n\nTRADITIONAL STYLING\n\nFemale:\n\n• orange silk saree • gold temple jewelry • layered necklace • jhumka earrings • maang tikka • red bindi • jasmine flowers in hair • elegant bridal styling\n\nMale:\n\n• light cream-orange patterned shirt • casual traditional styling • neatly groomed appearance\n\n━━━━━━━━━━━━━━━━━━━━\n\nBACKGROUND\n\nLush green garden environment.\n\nSoft greenery.\n\nNatural foliage.\n\nGolden sunlight filtering through leaves.\n\nBeautiful outdoor nature setting.\n\nSoft bokeh background.\n\nDreamy romantic atmosphere.\n\n━━━━━━━━━━━━━━━━━━━━\n\nLIGHTING\n\nGolden hour sunlight.\n\nWarm cinematic glow.\n\nSoft highlights on skin.\n\nNatural shadows.\n\nLuxury portrait lighting.\n\nSun rays through trees.\n\nRomantic color grading.\n\nVibrant yet realistic colors.\n\n━━━━━━━━━━━━━━━━━━━━\n\nCAMERA\n\nSony A7R V\n\n85mm lens\n\nf/1.4 aperture\n\nUltra shallow depth of field\n\nProfessional portrait photography\n\n8K Ultra-HD\n\nVertical composition\n\n━━━━━━━━━━━━━━━━━━━━\n\nPOSE\n\n• male standing behind female • both arms wrapped around her • romantic protective embrace • woman smiling toward camera • man looking affectionately at woman • natural expressions • intimate connection • elegant posture\n\n━━━━━━━━━━━━━━━━━━━━\n\nQUALITY REQUIREMENTS\n\n• exact face replacement from uploaded reference images • maximum facial identity preservation • ultra realistic skin texture • realistic eyes and eyelashes • realistic hair strands • realistic hands and fingers • perfect anatomy • seamless face integration • sharp focus on faces • natural expressions • luxury portrait quality • cinematic depth • premium color grading • Instagram viral quality • photorealistic 8K masterpiece\n\n━━━━━━━━━━━━━━━━━━━━\n\nIMPORTANT\n\nUse uploaded reference images ONLY for identity.\n\nDo NOT copy: • original clothes from reference photos • original background • original lighting\n\nRecreate the same romantic composition, pose, mood, framing, and cinematic feeling as the reference image while preserving the exact identities from the uploaded male and female reference images.\n\nFace accuracy priority: Maximum. Identity preservation: 100%. Photorealism: Maximum.",
+    "filter": [
+      "Cinematic",
+      "Love",
+      "Couple",
+      "Aesthetic"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "49",
     "embedUrl": "https://www.instagram.com/p/DZ4jAqxmmNj/?igsh=a2F4NjQwY3pvc3kx",
     "imageUrl": "/pins/4.webp",
