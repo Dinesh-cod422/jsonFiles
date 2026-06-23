@@ -1,5 +1,23 @@
 [
   {
+    "id": "53",
+    "embedUrl": "https://www.instagram.com/p/DZ5ZJanE9t-/?igsh=MThsYmI2dnZsemh1Yw==",
+    "imageUrl": "/pins/1.webp",
+    "title": "Create an ultra-realistic...",
+    "author": "LoveArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/48.jpg",
+    "prompt": "Create an ultra-realistic cinematic romantic street photography scene at night.\nReplace the original man and woman with the faces from the uploaded reference images while preserving their exact facial identity, skin tone, eyes, hairstyle, facial structure, and natural expressions.\nScene composition:\nBeautiful Indian woman walking confidently in the foreground.\nWearing an elegant deep red silk saree with golden embroidery and detailed border work.\nLong wavy hair flowing naturally.\nSmall handbag on shoulder, traditional earrings, subtle jewelry.\nSoft smile while looking slightly away from the camera.\nHandsome Indian man standing in the background near a vintage street lamp.\nBlack fitted shirt, beige trousers, white sneakers.\nLooking admiringly toward the woman with a warm romantic smile.\nEnvironment:\nLuxury city street at night.\nTall vintage street lamps creating a leading line perspective.\nVibrant pink bougainvillea flowers covering the side wall.\nFlower petals scattered on the pavement.\nSoft bokeh city lights in the distance.\nCinematic depth of field.\nLighting:\nWarm golden street-light illumination.\nSoft cinematic shadows.\nRomantic movie-poster atmosphere.\nHigh contrast, realistic skin texture.\nCamera:\nFull-frame DSLR look.\n85mm portrait lens.\nf/1.8 aperture.\nShallow depth of field.\nUltra detailed.\n8K resolution.\nPhotorealistic.\nPremium fashion photography style.\nNegative Prompt: blurry face, distorted eyes, extra fingers, duplicate people, low quality, cartoon, painting, unrealistic skin, oversaturated colors, bad anatomy, cropped body, watermark, text, logo.\nFor Midjourney face replacement, upload your man and woman photos first and add:\nUse uploaded male and female reference images as the exact facial identity source. Maintain 100% facial resemblance and realistic appearance.\nFor ChatGPT image generation, upload:\nYour photo\nYour partner's photo\nand I can generate the edited version with the same pose, lighting, saree, and background while preserving both faces accurately.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Couple",
+      "Love"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "52",
     "embedUrl": "https://www.instagram.com/p/DZ5P5ASGj1g/?igsh=MXB6cXo3OHd0c2N2eA==",
     "imageUrl": "/pins/4.webp",
