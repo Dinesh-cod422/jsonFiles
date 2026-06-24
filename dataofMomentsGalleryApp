@@ -1,5 +1,24 @@
 [
   {
+    "id": "56",
+    "embedUrl": "https://www.instagram.com/p/DZ9IWeFmqLz/?igsh=MWdveTlwNG9pZDZmZg==",
+    "imageUrl": "/pins/9.webp",
+    "title": "Create an ultra-realistic...",
+    "author": "CinematicArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/53.jpg",
+    "prompt": "Create an ultra-realistic romantic Indian couple portrait using the uploaded male and female reference photos as the ONLY source of facial identity.\n\nREFERENCE IMAGE RULES (HIGHEST PRIORITY)\n\nMale Reference:\nUse the uploaded male photo as the only source of facial identity.\nPreserve exactly:\n\nFace shape\n\nEyes\n\nEyebrows\n\nNose\n\nLips\n\nJawline\n\nSkin tone\n\nHairline\n\nBeard and mustache style\n\nNatural expression\n\nFemale Reference:\nUse the uploaded female photo as the only source of facial identity.\nPreserve exactly:\n\nFace shape\n\nEyes\n\nEyebrows\n\nNose\n\nLips\n\nJawline\n\nSkin tone\n\nHairline\n\nHairstyle\n\nNatural expression\n\nMaintain maximum facial accuracy and realism for both subjects.\n\nSCENE\n\nA beautiful Indian woman sits in front of a classic wooden dressing table mirror, gently touching her cheek while smiling softly. Her reflection is visible in the mirror.\n\nA handsome Indian man stands closely behind her, slightly leaning toward her shoulder with a loving smile.\n\nBoth subjects are looking naturally into the mirror reflection.\n\nPOSE\n\nFemale seated near the mirror.\nMale standing behind her.\nTheir heads are close together.\nSoft romantic chemistry.\nNatural candid expression.\n\nOUTFITS\n\nFemale wearing a pastel mint-green traditional saree with golden border and matching blouse.\n\nMale wearing a pastel teal-green cotton shirt.\n\nTraditional elegant styling.\n\nENVIRONMENT\n\nVintage wooden dressing table.\nLarge wooden framed mirror.\nWarm Indian home interior.\nSoft natural morning light entering from a nearby window.\n\nLIGHTING\n\nGolden-hour indoor lighting.\nWarm sunlight glow.\nSoft shadows.\nDreamy cinematic atmosphere.\n\nCAMERA\n\n85mm portrait lens.\nMirror reflection composition.\nShallow depth of field.\nProfessional DSLR photography.\n\nQUALITY\n\nUltra-realistic.\nPhotorealistic.\n8K resolution.\nNatural skin texture.\nSharp facial details.\nMagazine-quality portrait.\nCinematic color grading.\nRomantic Indian aesthetic.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Love",
+      "Portrait",
+      "Couple",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "55",
     "embedUrl": "https://www.instagram.com/p/DZ9BJC5GoGB/?igsh=MWM2N2w2c2ViNm56MQ==",
     "imageUrl": "/pins/3.webp",
