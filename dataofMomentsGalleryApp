@@ -1,5 +1,24 @@
 [
   {
+    "id": "58",
+    "embedUrl": "https://www.instagram.com/p/DZ9VnJiGph8/?img_index=2&igsh=MWp0dDUxYzIwOTFmYw==",
+    "imageUrl": "/pins/9.webp",
+    "title": "Create an ultra-realistic...",
+    "author": "CreativeStudio",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/68.jpg",
+    "prompt": "Create an ultra-realistic romantic Indian couple portrait designed as a magical vintage storybook scene. An enormous open antique book stands vertically as the background, with aged parchment pages, elegant Tamil calligraphy, handwritten love quotes, ink illustrations, flowers, hearts, and romantic decorations.\nReplace the faces with the uploaded reference photos while preserving exact facial identity, face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, and natural expression with maximum face accuracy.\nThe handsome young Indian man wears a stylish maroon shirt, black trousers, wristwatch, and casual elegant styling. The beautiful Indian woman wears a vibrant pink silk saree with intricate golden embroidery, matching jewelry, and a graceful smile.\nThe couple stands closely together in front of the giant open book, expressing love, warmth, and happiness. The pages contain romantic Tamil text, love poetry, decorative pen drawings, roses, trees, and vintage artwork. Floating glowing heart particles surround the couple.\nForeground features antique fountain pen, vintage pocket watch, rose petals, soft bokeh lights, and cinematic depth of field. Warm golden lighting, dreamy atmosphere, ultra-detailed textures, realistic skin tones, professional photography, masterpiece composition, romantic fantasy mood.\nHighly detailed, 8K resolution, HDR, cinematic color grading, shallow depth of field, photorealistic, studio quality, luxury wedding album style, magical love story book concept.\nNegative Prompt:\nblurry, low quality, extra fingers, duplicate person, distorted face, wrong face, cartoon, anime, unrealistic skin, bad anatomy, cropped body, watermark, logo, text overlap, overexposed, underexposed, noisy image, low resolution, deformed hands, mutated features, artificial expression",
+    "filter": [
+      "Portrait",
+      "Cinematic",
+      "Aesthetic",
+      "Love",
+      "Couple",
+      "Artistic"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "57",
     "embedUrl": "https://www.instagram.com/p/DZ9RrNTGhHm/?igsh=MWJ0aW91eWRsaThjaA==",
     "imageUrl": "/pins/2.webp",
