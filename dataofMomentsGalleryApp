@@ -1,5 +1,24 @@
 [
   {
+    "id": "60",
+    "embedUrl": "https://www.instagram.com/p/DaDZtSRmlfR/?igsh=cHl3Z211Yjl3MGwy",
+    "imageUrl": "/pins/6.webp",
+    "title": "Replace this photo Ultra-...",
+    "author": "LoveArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/46.jpg",
+    "prompt": "Replace this photo Ultra-Realistic Romantic Couple Portrait Prompt\nCreate an ultra-realistic, DSLR-quality romantic couple portrait using the uploaded reference images as the ONLY source of facial identity. Preserve both faces exactly, including face shape, eyes, eyebrows, nose, lips, jawline, skin tone, hairstyle, facial proportions, and natural expressions. Do not alter any facial features.\nScene: A charming South Indian couple in a candid romantic moment. The woman is sitting gracefully on a modern sky-blue wooden bench wearing a beautiful deep red embroidered kurta with matching leggings and black sandals. She is smiling warmly while looking lovingly at the man.\nThe man is standing beside the bench, leaning casually against a matte blue textured wall with his arms folded and one leg crossed. He is wearing a stylish black full-sleeve casual shirt with light blue jeans, black sandals, and a modern smartwatch. He is smiling softly while looking at the woman.\nBehind them, the blue wall features elegant handwritten typography reading \"I Love You\" in large artistic brush lettering. Vibrant pink bougainvillea flowers hang from the top-left corner, with scattered flower petals on the ground, creating a dreamy romantic atmosphere.\nLighting & Composition:\nSoft natural daylight\nCinematic color grading\nUltra-realistic skin texture\nShallow depth of field\nHigh dynamic range (HDR)\nDSLR 85mm portrait lens\nf/1.8 aperture\nCrisp focus on both faces\nRomantic eye contact\nClean background\nNatural shadows\n8K Ultra HD\nInstagram-worthy aesthetic\nPhotorealistic\nVertical portrait (4:5)\nNegative Prompt: Blur, low quality, cartoon, CGI, painting, extra fingers, extra limbs, deformed face, incorrect facial features, duplicate people, bad anatomy, oversaturated colors, watermark, logo, text (except \"I Love You\"), noise, artifacts, cropped body, unrealistic lighting, distorted hands, low resolution.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Love",
+      "Couple",
+      "Artistic"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "59",
     "embedUrl": "https://www.instagram.com/p/DaCQQL6GvOv/?igsh=bnZsZHJ1ZXFna3hs",
     "imageUrl": "/pins/1.webp",
