@@ -1,5 +1,24 @@
 [
   {
+    "id": "61",
+    "embedUrl": "https://www.instagram.com/p/DaEy1WHmmhf/?igsh=MTk5a2hnZHY2MjhjYQ==",
+    "imageUrl": "/pins/2.webp",
+    "title": "Create an ultra-realistic...",
+    "author": "CreativeStudio",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/18.jpg",
+    "prompt": "Create an ultra-realistic cinematic romantic couple portrait using the uploaded male and female reference images as the ONLY source of facial identity.\n\nREFERENCE FACE MATCHING (HIGHEST PRIORITY)\n\nMale Reference:\nUse the uploaded male reference image as the only source of facial identity. Preserve exactly:\n• Face shape\n• Eyes\n• Eyebrows\n• Nose\n• Lips\n• Jawline\n• Skin tone\n• Hairline\n• Hairstyle\n• Beard and mustache (if present)\n• Natural expression\n\nFemale Reference:\nUse the uploaded female reference image as the only source of facial identity. Preserve exactly:\n• Face shape\n• Eyes\n• Eyebrows\n• Nose\n• Lips\n• Jawline\n• Skin tone\n• Hairline\n• Hairstyle\n• Natural expression\n\nDo not alter any facial features. Maintain maximum facial accuracy, realistic skin texture, and seamless identity preservation. The generated faces must closely match the uploaded reference images.\n\nSCENE\n\nA stylish South Indian couple walking hand-in-hand through a luxurious palace-style corridor with tall white pillars, flowing white curtains, polished wooden flooring, and warm natural daylight streaming through large windows.\n\nThe woman confidently walks slightly ahead while smiling softly at the camera. The man walks just behind her, holding her hand and looking at her with an intense, protective, and loving expression.\n\nPOSE\n\n• Female walking in front while holding the man's hand.\n• Male walking one step behind.\n• Natural walking posture with realistic body movement.\n• Female looking directly at the camera with a gentle smile.\n• Male looking toward the female.\n• Elegant romantic chemistry.\n\nOUTFITS\n\nFemale:\nElegant black designer saree with delicate shimmer details and a silver-grey blouse, minimal jewelry, long wavy hair.\n\nMale:\nLuxury maroon blazer, dark emerald-green shirt with open collar, black trousers, polished black formal shoes.\n\n(Outfit colors can be customized.)\n\nBACKGROUND\n\nGrand palace corridor with tall white pillars, flowing white curtains, soft beige walls, wooden flooring, luxurious architecture, and a clean cinematic atmosphere.\n\nLIGHTING\n\nWarm golden-hour indoor lighting.\nSoft natural window light.\nCinematic highlights.\nGentle shadows.\nLuxury editorial color grading.\n\nCAMERA\n\nFull-body vertical portrait.\n50mm DSLR lens.\nEye-level perspective.\nShallow depth of field.\nProfessional fashion photography.\n\nQUALITY\n\nUltra-realistic.\nPhotorealistic.\n8K resolution.\nHighly detailed facial features.\nNatural skin texture.\nSharp focus.\nMagazine-quality.\nLuxury cinematic portrait.\nAward-winning photography style.\nRomantic South Indian aesthetic.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Love",
+      "Couple",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "60",
     "embedUrl": "https://www.instagram.com/p/DaDZtSRmlfR/?igsh=cHl3Z211Yjl3MGwy",
     "imageUrl": "/pins/6.webp",
