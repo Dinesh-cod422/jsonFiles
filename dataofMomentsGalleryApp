@@ -1,5 +1,23 @@
 [
   {
+    "id": "64",
+    "embedUrl": "https://www.instagram.com/p/DaK4R0zGgCG/?igsh=eTd6aHdyaHQ4ajZk",
+    "imageUrl": "/pins/4.webp",
+    "title": "Create an ultra-realistic...",
+    "author": "PremiumGallery",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/24.jpg",
+    "prompt": "Create an ultra-realistic cinematic portrait of the SAME adorable 3-year-old Indian girl from the uploaded reference image. Use the uploaded image as the ONLY source of facial identity. Preserve exactly the face shape, expressive large dark brown eyes, eyebrows, nose, lips, chubby cheeks, skin tone, smile, hairline, hairstyle, and all facial proportions. Do not alter the child's identity.\n\nScene:\nThe little girl is standing barefoot on a rain-soaked garden pathway during a gentle monsoon shower, smiling sweetly at the camera while holding a transparent crystal-clear umbrella with sparkling raindrops. She has cute curly black hair tied into two playful ponytails, tiny gold earrings, black-bead bracelets on both wrists, a delicate gold chain necklace, and a tiny golden bindi.\n\nOutfit:\nA luxurious pastel pink princess gown with multiple layers of soft tulle, floral embroidery, ruffled sleeves, delicate lace details, flowing layered skirt, elegant fairy-tale styling, premium designer children's fashion.\n\nBackground:\nLush green garden filled with blooming pink flowers, wet leaves, soft rain, warm golden bokeh lights in the distance, reflective rain-covered pathway, dreamy monsoon atmosphere.\n\nLighting:\nSoft natural rainy daylight mixed with warm cinematic backlighting, volumetric light, shallow depth of field, creamy bokeh, realistic rain droplets, HDR, ultra-detailed textures, premium portrait photography.\n\nCamera:\nFull-body portrait, eye-level angle, 85mm lens, f/1.8, professional DSLR, razor-sharp focus on the child, highly detailed skin texture, photorealistic, cinematic color grading, 8K, masterpiece, ultra-realistic.\n\nNegative Prompt:\nDifferent face, different child, adult features, deformed face, crossed eyes, extra fingers, extra limbs, cropped body, duplicate person, blurry, low resolution, cartoon, anime, painting, oversaturated, watermark, logo, text, noise, artifacts, distorted hands, unrealistic proportions.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Kids",
+      "Artistic"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "63",
     "embedUrl": "https://www.instagram.com/p/DaKmyUSmh0d/?igsh=eWs0NjR1ZnhnMHd3",
     "imageUrl": "/pins/4.webp",
