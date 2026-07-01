@@ -1,5 +1,24 @@
 [
   {
+    "id": "69",
+    "embedUrl": "https://www.instagram.com/p/DaQbR3ymqiu/?igsh=ZGFkeWZycXI4b2Z4",
+    "imageUrl": "/pins/10.webp",
+    "title": "Create an ultra-realistic...",
+    "author": "CreativeStudio",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/46.jpg",
+    "prompt": "Create an ultra-realistic cinematic emotional romantic close-up portrait using the uploaded reference images as the ONLY source of facial identity for both the man and the woman.\n\nFACE REFERENCE (HIGHEST PRIORITY)\n\nUse the uploaded reference images as the ONLY source of facial identity.\n\nFor both people, preserve exactly:\n• Face shape\n• Eyes\n• Eyebrows\n• Nose\n• Lips\n• Jawline\n• Skin tone\n• Hairline\n• Hairstyle\n• Facial proportions\n• Natural facial expression\n\nDo not alter, beautify, or stylize the faces. Maintain maximum identity accuracy while naturally blending them into the new cinematic scene. The generated faces must closely match the uploaded reference images.\n\nSCENE\n\nAn intimate emotional romantic moment at night. The handsome young man stands very close to the woman, shown from behind with only the back side of his face, shoulder, neck, and upper body partially visible. His right hand gently lifts the woman's chin with one finger in a caring, comforting gesture.\n\nThe beautiful young woman looks deeply into his eyes with watery eyes filled with tears, a soft emotional smile, and overwhelming love. A tiny tear is visible beneath one eye, creating a touching cinematic love scene.\n\nPOSE\n\nThe woman slightly tilts her face upward while maintaining eye contact with the man. The man gently raises her chin using his fingertips. Their faces are only inches apart, expressing romance, trust, and affection.\n\nWARDROBE\n\nWoman:\n• Elegant lavender silk saree with subtle woven texture\n• Matching blouse\n• Traditional oxidized silver jhumka earrings\n• Tiny black bindi\n• Long naturally flowing hair\n• Soft natural makeup\n\nMan:\n• Black casual full-sleeve shirt\n• Clean hairstyle\n• Light beard\n• Only partially visible from behind\n\nEXPRESSION\n\nWoman:\n• Tear-filled eyes\n• Emotional smile\n• Slightly trembling lips\n• Deep romantic gaze\n\nMan:\n• Gentle caring posture\n• Protective body language\n• Looking lovingly into her eyes\n\nBACKGROUND\n\nDark cinematic night background with warm golden bokeh lights, softly blurred city lights, shallow depth of field, luxury movie atmosphere, dreamy romantic ambience.\n\nLIGHTING\n\nWarm golden rim lighting around the woman's hair, cinematic backlight, soft front fill light, beautiful catchlights in the eyes, high contrast movie lighting, warm skin tones, glowing highlights.\n\nCAMERA\n\nProfessional DSLR\n85mm portrait lens\nVertical 9:16 composition\nUltra close-up framing\nShallow depth of field\nSubject sharply focused\nCreamy cinematic bokeh\n\nQUALITY\n\nUltra-realistic\nPhotorealistic\n8K HDR\nExtremely detailed skin texture\nNatural pores\nSharp expressive eyes\nLuxury cinematic color grading\nAward-winning romantic photography\nMovie still quality\nEmotional storytelling\nHighly realistic lighting\nMaximum facial identity preservation",
+    "filter": [
+      "Cinematic",
+      "Portrait",
+      "Aesthetic",
+      "Love",
+      "Couple",
+      "Artistic"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "68",
     "embedUrl": "https://www.instagram.com/p/DaQWtTPmsd6/?igsh=MXV3YTNvbGJ0NnVyeA==",
     "imageUrl": "/pins/9.webp",
