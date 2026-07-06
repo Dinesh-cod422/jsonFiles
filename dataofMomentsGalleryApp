@@ -1,5 +1,23 @@
 [
   {
+    "id": "74",
+    "embedUrl": "https://www.instagram.com/p/Dabx-LbCTk_/?img_index=1&igsh=MWF0YmlvNHA3MWVvbA==",
+    "imageUrl": "/pins/4.webp",
+    "title": "EXTREMELY ULTRA-REALISTIC...",
+    "author": "CreativeStudio",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/49.jpg",
+    "prompt": "EXTREMELY ULTRA-REALISTIC 8K CINEMATIC TOM & JERRY FRIENDSHIP PORTRAIT\nFACE REFERENCE (HIGHEST PRIORITY)\nUse the uploaded reference image ONLY as the facial identity source.\nPreserve EXACTLY:\nFace shape\nEyes\nEyebrows\nNose\nLips\nJawline\nSkin tone\nHairline\nHairstyle\nFacial proportions\nNatural expression\nDo NOT beautify, stylize, or alter any facial features. The generated face must closely match the uploaded reference image with realistic skin texture and natural details.\nSCENE\nCreate an ultra-realistic full-body portrait of a young woman standing beside a life-sized Tom (from Tom & Jerry) mascot in a cheerful indoor setting.\nTom stands on the right side with one arm resting naturally on the girl's shoulder while smiling happily. His other hand rests confidently on his waist. One leg is casually crossed over the other, creating a relaxed pose.\nThe girl stands naturally with a gentle smile, both hands tucked into her jeans pockets, leaning slightly toward Tom, conveying a warm friendship.\nOUTFIT\nGirl:\nBlack oversized sweatshirt featuring a large Tom cartoon print on the front\nLight blue wide-leg denim jeans\nWhite canvas sneakers\nSmall gold necklace\nSoft natural makeup\nTom:\nUltra-realistic mascot costume\nSoft gray fur\nWhite belly\nPink inner ears\nBright green eyes\nFriendly cartoon smile\nPremium plush texture\nBACKGROUND\nMinimal pastel sage-green wall\nCream-colored glossy tiled floor\nWarm golden-hour sunlight entering from the left\nSoft window shadows cast on the wall\nClean modern indoor environment\nNo furniture or distracting objects\nLIGHTING\nWarm natural sunlight\nSoft cinematic lighting\nRealistic skin tones\nHigh dynamic range\nGentle shadows\nStudio-quality exposure\nCAMERA\nFull-body portrait\nEye-level angle\n50mm DSLR lens\nf/1.8 aperture\nSharp focus on both subjects\nSoft background blur\nPerfect composition\nQUALITY\nHyper-realistic\n8K UHD\nDSLR quality\nUltra-detailed facial features\nRealistic fabric textures\nNatural skin pores\nAccurate hand anatomy (5 fingers on each hand)\nRealistic footwear\nCinematic color grading\nPhotorealistic lighting\nNo AI artifacts\nProfessional portrait photography\nThis prompt is optimized for creating a highly realistic image with your uploaded face replacing the girl's face while maintaining the same pose, outfit, and overall composition.replace face.",
+    "filter": [
+      "Portrait",
+      "Fashion",
+      "Artistic",
+      "Aesthetic",
+      "Cinematic"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "73",
     "embedUrl": "https://www.instagram.com/p/Daa4a1sE1D5/?igsh=MTJydWp0YzR3d2ZjOQ==",
     "imageUrl": "/pins/5.webp",
