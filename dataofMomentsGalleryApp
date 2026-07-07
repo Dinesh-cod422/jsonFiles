@@ -1,5 +1,25 @@
 [
   {
+    "id": "79",
+    "embedUrl": "https://www.instagram.com/p/DaftkT8muaf/?igsh=YWIxNmxqanl1NDlq",
+    "imageUrl": "/pins/6.webp",
+    "title": "Ultra-realistic 8K cinema...",
+    "author": "CreativeStudio",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/66.jpg",
+    "prompt": "Ultra-realistic 8K cinematic two-panel comic-style collage, premium DSLR photography, photorealistic, masterpiece quality, HDR, ultra-detailed skin texture, realistic facial features, soft cinematic lighting, shallow depth of field, creamy bokeh, 85mm portrait lens, f/1.8, ultra-sharp focus, natural color grading, subtle film grain. Layout: Two equal horizontal comic panels stacked vertically with a thin black border separating them.100% replace face.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Anime",
+      "Love",
+      "Couple",
+      "Artistic"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "78",
     "embedUrl": "https://www.instagram.com/p/Daes08pGpJQ/?igsh=dGkybnBraTE2Zm0x",
     "imageUrl": "/pins/1.webp",
