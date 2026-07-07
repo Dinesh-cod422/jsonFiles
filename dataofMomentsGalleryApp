@@ -1,5 +1,23 @@
 [
   {
+    "id": "77",
+    "embedUrl": "https://www.instagram.com/p/Daen-XCmsZ3/?igsh=dXRtOTNidHB5Mjkw",
+    "imageUrl": "/pins/1.webp",
+    "title": "Ultra-Realistic AI Prompt...",
+    "author": "LoveArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/31.jpg",
+    "prompt": "Ultra-Realistic AI Prompt\n\nReference Image: (Use your uploaded photo as the ONLY facial reference.)\n\nPrompt:\n\nCreate an extremely ultra-realistic 8K cinematic portrait using the uploaded reference image as the ONLY source of facial identity.\n\nPreserve the face exactly:\n\nFace shape\n\nEyes\n\nEyebrows\n\nNose\n\nLips\n\nJawline\n\nSkin tone\n\nHairstyle\n\nHairline\n\nBeard and mustache\n\nThe person is wearing a luxury tailored black suit, black dress shirt (top button open), slim-fit trousers, and glossy black formal shoes.\n\nPose the subject standing beside a premium black leather lounge chair with a walnut wood shell, one hand resting naturally on the chair while the other hand is inside the trouser pocket. Legs casually crossed with a confident, relaxed posture. Looking directly at the camera with a subtle smile.\n\nBehind the subject is a massive contemporary gallery canvas featuring a highly artistic painted portrait of the same person. The painting is created with expressive brush strokes, beige, charcoal, black, and warm cream tones, with subtle paint drips and modern abstract textures.\n\nEnvironment: luxurious contemporary art gallery with polished concrete floor, industrial concrete wall, minimalist architecture, museum-quality lighting.\n\nLighting: large softbox key light, cinematic rim light, natural soft shadows, realistic reflections on shoes and chair, HDR lighting, studio-quality illumination.\n\nCamera:\n\nFull-body portrait\n\nEye-level perspective\n\n85mm lens\n\nf/2.8\n\nUltra-sharp facial details\n\nNatural skin texture\n\nRealistic hair strands\n\nPremium color grading\n\nHigh dynamic range\n\nPhotorealistic rendering\n\nMagazine cover quality\n\nLuxury editorial fashion photography\n\nHyper-realistic, lifelike, extremely detailed\n\nAspect Ratio: 4:5\n\nNegative Prompt\n\ncartoon, anime, illustration, CGI, 3D render, low quality, blurry, soft face, distorted face, extra fingers, extra limbs, bad anatomy, duplicate person, cropped body, watermark, logo, text, oversaturated colors, plastic skin, unrealistic eyes, deformed hands, low resolution, noise, artifacts, poor lighting, incorrect facial features, face swap, altered identity.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Men's",
+      "Fashion"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "76",
     "embedUrl": "https://www.instagram.com/p/DaefolrGvZe/?igsh=MXZ5MGkyaXRtcWdqNQ==",
     "imageUrl": "/pins/1.webp",
