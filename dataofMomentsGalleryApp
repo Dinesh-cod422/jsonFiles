@@ -1,5 +1,24 @@
 [
   {
+    "id": "83",
+    "embedUrl": "https://www.instagram.com/p/Dak185gGtEF/?igsh=MXZ0bjgwNXRidDQ4NA==",
+    "imageUrl": "/pins/7.webp",
+    "title": "Ultra-Realistic South Ind...",
+    "author": "AestheticVibes",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/46.jpg",
+    "prompt": "Ultra-Realistic South Indian Village Couple Poster Prompt (8K Cinematic) Face Reference (Highest Priority): Use the uploaded reference image only for the faces. Preserve facial features exactly (100% face accuracy), including face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, beard, expression, and facial proportions. Do not alter the identities. Prompt: Create an ultra-realistic 8K cinematic DSLR portrait of a confident South Indian couple in a traditional ancestral village house courtyard during golden hour. The man is standing on the left with his arms folded, wearing a royal blue half-sleeve cotton shirt, a traditional white veshti with a blue border, a thick beard, voluminous hair, and a calm, powerful expression. The woman is seated beside him on a classic wooden chair, wearing a rich maroon silk saree with a green and gold border, a mustard-yellow blouse, jasmine flowers adorning her long braided hair, elegant traditional jewelry including bangles, earrings, necklace, rings, and a small black bindi. She has a serious, graceful expression and sits with her hands gently folded. The background features a beautiful heritage South Indian tiled-roof house with white walls, wooden windows, a spacious courtyard, warm sunset sky, and authentic Tamil village architecture. Soft golden sunlight illuminates the couple, creating cinematic rim lighting, realistic shadows, HDR, ultra-detailed skin texture, premium fabric details, lifelike eyes, natural color grading, shallow depth of field, creamy bokeh, 85mm lens, f/1.8, masterpiece composition, ultra-sharp focus, highly detailed textures, realistic atmosphere, and premium movie-poster quality. Negative Prompt: Low quality, blurry, cartoon, CGI, painting, anime, unrealistic skin, distorted face, incorrect anatomy, extra fingers, extra limbs, duplicate people, cropped body, watermark, logo, text, noise, overexposed, oversaturated, deformed hands, bad proportions, artifacts, low resolution, face mismatch, altered identity, unnatural lighting.100% replace face.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Love",
+      "Couple",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "82",
     "embedUrl": "https://www.instagram.com/p/Dak0QhFmkkW/?igsh=MWVqd3BvNnI2d3RvNw==",
     "imageUrl": "/pins/9.webp",
