@@ -1,5 +1,22 @@
 [
   {
+    "id": "85",
+    "embedUrl": "https://www.instagram.com/p/DapdrptmmiM/?igsh=OXY2eHp1a3RwdXNn",
+    "imageUrl": "/pins/4.webp",
+    "title": "Remove all people in the",
+    "author": "PremiumGallery",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/1.jpg",
+    "prompt": "Remove all people in the background of the uploaded image. Preserve the main subject exactly. Do not change the subject's face, body, clothing, pose, or expression. Reconstruct the background naturally where the people were removed, matching the original location, architecture, lighting, shadows, and depth. Do not crop, blur, or stylize. The result must look as if the photo had originally been taken without people in the background",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Artistic"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "84",
     "embedUrl": "https://www.instagram.com/p/Danb5kgGqXS/?igsh=M2hvbm40ZThlNGNr",
     "imageUrl": "/pins/4.webp",
