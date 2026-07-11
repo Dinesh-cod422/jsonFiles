@@ -1,5 +1,25 @@
 [
   {
+    "id": "86",
+    "embedUrl": "https://www.instagram.com/p/DaqKvrCGogy/?igsh=dW5zejl3N242c2Rl",
+    "imageUrl": "/pins/5.webp",
+    "title": "Create an ultra-realistic...",
+    "author": "ArtisticSoul",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/71.jpg",
+    "prompt": "Create an ultra-realistic, cinematic South Indian village scene during the evening golden hour. A young South Indian man sits casually on the traditional house doorstep, wearing a light grey half-sleeve shirt with white stripes on the sleeves and a clean white veshti (dhoti). He has a neatly trimmed beard, short black hair, and a soft, affectionate smile while looking at a woman in the foreground.\nIn the foreground, a beautiful South Indian woman is intentionally out of focus (bokeh effect), dressed in a traditional black saree with a mustard-yellow checked blouse. She holds a brass pooja plate with a glowing oil lamp (diya), flowers, and turmeric, with jasmine flowers adorning her braided hair.\nThe background features an authentic Tamil village house with teal-green walls, a red-and-yellow doorway, a hanging brass bell, stone steps, and warm ambient lighting from inside the house. The composition uses shallow depth of field, keeping the seated man in sharp focus while the woman remains artistically blurred.\nWarm cinematic color grading, soft natural lighting, realistic skin texture, emotional storytelling, DSLR photography, 85mm lens, f/1.8, HDR, ultra-detailed, photorealistic, 8K quality, rich Indian cultural atmosphere, vertical portrait (9:16), premium movie still aesthetic.100% replace face.",
+    "filter": [
+      "Portrait",
+      "Cinematic",
+      "Aesthetic",
+      "Men's",
+      "Love",
+      "Fashion",
+      "Couple"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "85",
     "embedUrl": "https://www.instagram.com/p/DapdrptmmiM/?igsh=OXY2eHp1a3RwdXNn",
     "imageUrl": "/pins/4.webp",
