@@ -1,5 +1,23 @@
 [
   {
+    "id": "105",
+    "embedUrl": "https://www.instagram.com/p/DaxJh4dmkL1/?img_index=3&igsh=Mnlkc3l6Zmx0YXg1",
+    "imageUrl": "/pins/5.webp",
+    "title": "Create an ultra-realistic...",
+    "author": "CreativeStudio",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/74.jpg",
+    "prompt": "Create an ultra-realistic 8K cinematic portrait of a beautiful young South Indian college girl standing indoors against a smooth warm orange background with soft creamy bokeh. She has medium warm-brown skin, expressive dark brown eyes, naturally thick eyebrows, a tiny black bindi, subtle eyeliner, soft peach lips, and a gentle, charming smile while looking slightly to the side. Her long, naturally black hair is neatly parted in the center and styled into two long braided pigtails tied with fluffy white hair bands.\nShe is wearing a light blue short-sleeve school shirt with a neatly fitted grey pinafore uniform, a visible school ID card on a navy-blue lanyard, a delicate gold chain necklace, and minimal accessories. The pose is relaxed and natural, with her upper body facing the camera while her face is turned slightly, creating a candid, elegant expression.\nLighting is soft cinematic indoor lighting with warm golden tones, producing natural skin texture, realistic hair strands, subtle catchlights in the eyes, and gentle depth. Background is clean, uncluttered, and beautifully blurred. DSLR portrait photography, 85mm prime lens, f/1.8 aperture, shallow depth of field, ultra-sharp facial details, photorealistic skin pores, natural color grading, HDR, premium color science, masterpiece quality, hyper-realistic, extremely detailed, 8K, editorial fashion portrait, no overprocessing, no cartoon look, no AI artifacts.\nNegative Prompt\nlow quality, blurry, cartoon, anime, CGI, painting, illustration, overexposed, oversaturated, bad anatomy, extra fingers, deformed face, asymmetrical eyes, duplicate hair, watermark, logo, text, noisy image, low resolution, distorted proportions, plastic skin, unrealistic lighting, artifacts, cropped head, motion blur.100% replace face.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Women's",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "104",
     "embedUrl": "https://www.instagram.com/p/Daw8B2VGsr4/?igsh=YWtzMzVjbTZzZm51",
     "imageUrl": "/pins/9.webp",
