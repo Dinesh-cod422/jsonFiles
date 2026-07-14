@@ -1,5 +1,23 @@
 [
   {
+    "id": "104",
+    "embedUrl": "https://www.instagram.com/p/Daw8B2VGsr4/?igsh=YWtzMzVjbTZzZm51",
+    "imageUrl": "/pins/9.webp",
+    "title": "EXTREMELY ULTRA-REALISTIC...",
+    "author": "CreativeStudio",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/73.jpg",
+    "prompt": "EXTREMELY ULTRA-REALISTIC 8K CINEMATIC COUPLE PORTRAIT\nCreate an EXTREMELY ULTRA-REALISTIC 8K cinematic romantic couple portrait using the uploaded reference images as the ONLY source of facial identity for both people. Preserve 100% of both faces exactly as in the uploaded reference images, including face shape, forehead, eyebrows, eyes, eyelashes, nose, lips, smile, jawline, beard, skin tone, hairstyle, hairline, ears, and all natural facial proportions. Do NOT stylize, beautify, or modify the faces in any way. The generated faces must be an exact identity match to the uploaded references.\nPOSE (Match Exactly)\nCouple sitting side-by-side on wide traditional stone steps.\nMan seated on the right.\nWoman seated on the left.\nBoth facing directly toward the camera.\nWoman sits gracefully with both knees together and slightly angled.\nHands gently folded on her lap with relaxed fingers.\nMan sits comfortably with knees slightly apart.\nBoth hands loosely clasped together between his knees.\nShoulders naturally relaxed.\nSmall natural gap between them.\nBoth smiling warmly while looking directly at the camera.\nCalm, candid engagement-style pose.\nMale Outfit\nDark navy blue checked full-sleeve cotton shirt.\nSleeves folded to elbows.\nTraditional white cotton veshti (dhoti).\nBarefoot.\nThin red sacred thread on right wrist.\nWell-groomed beard.\nFemale Outfit\nElegant Kerala-style kasavu saree.\nRich copper-orange silk pallu and blouse.\nCream saree with golden zari border.\nTraditional gold jhumka earrings.\nSmall black bindi.\nNatural makeup.\nLong wavy black hair over one shoulder.\nGold bangles and simple ring.\nBarefoot.\nBackground\nTraditional South Indian house veranda.\nStone steps.\nWhite pillars.\nGreen tropical garden.\nSoft blurred trees.\nPeaceful heritage home atmosphere.\nNatural outdoor setting.\nLighting\nWarm morning golden sunlight.\nSoft natural shadows.\nCinematic warm tones.\nHDR lighting.\nRealistic skin highlights.\nNatural ambient light.\nSoft rim light around hair.\nCamera\nEye-level composition.\n85mm portrait lens.\nf/2.0 aperture.\nMedium full-body framing.\nDSLR quality.\nUltra-sharp facial details.\nPhotorealistic skin texture.\nNatural depth of field.\nPremium wedding photography.\nHyper-realistic fabric textures.\nTrue-to-life colors.\nExtremely realistic hands and feet.\nFace Priority (Highest)\n100% face replacement from uploaded reference images.\nDo not blend with generated faces.\nNo face enhancement or beautification.\nMaintain exact identity, facial proportions, expression, and skin tone from the uploaded references.\nNegative Prompt\nNo text, watermark, logo, AI look, cartoon effect, painting effect, beauty filter, face morphing, face swapping errors, wrong facial proportions, extra fingers, missing fingers, deformed hands, deformed feet, duplicated limbs, blurry face, low quality, overexposed lighting, unnatural skin, distorted anatomy, cropped body, bad composition, unrealistic expressions.100% replace face.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Women's",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "103",
     "embedUrl": "https://www.instagram.com/p/DawoKVomscL/?igsh=MTg4MWFnaHhicHRwNg==",
     "imageUrl": "/pins/9.webp",
