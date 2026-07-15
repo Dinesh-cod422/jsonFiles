@@ -1,5 +1,23 @@
 [
   {
+    "id": "107",
+    "embedUrl": "https://www.instagram.com/p/Da0TVRqGmlM/?igsh=MXg0emxwdDR1c2hiaA==",
+    "imageUrl": "/pins/3.webp",
+    "title": "Create an EXTREMELY ULTRA...",
+    "author": "CinematicArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/57.jpg",
+    "prompt": "Create an EXTREMELY ULTRA-REALISTIC 8K cinematic portrait of a beautiful young South Indian woman gracefully twirling outdoors on a warm golden-hour evening. She is looking directly up at the camera with a bright, joyful smile, expressive dark brown eyes, naturally thick eyebrows, subtle eyeliner, a tiny black bindi, soft pink lips, and flawless warm-brown skin. Her long silky black hair flows dramatically in the air due to the spinning motion. She is wearing an elegant lime green lehenga choli richly decorated with delicate silver embroidery and sparkling sequin work. A vibrant mustard-yellow dupatta with shimmering silver borders flows naturally behind her, creating beautiful motion. She wears traditional silver jhumka earrings, a thin gold necklace, matching bangles, and minimal elegant makeup. The photo is captured from a high-angle top-down perspective, emphasizing the circular flare of the lehenga as she twirls. The skirt spreads into a perfect flowing circle with realistic fabric movement and physics. Her pose is graceful, one hand slightly extended while spinning naturally. The background features a textured stone pathway with lush green tree branches entering from the upper-left corner. Warm golden sunlight filters softly through the leaves, producing cinematic rim lighting, soft highlights, and natural shadows. The background has creamy depth of field and subtle bokeh, keeping the subject in razor-sharp focus. Photography style: Professional fashion photography, Sony A7R V, 85mm GM lens, f/1.8, HDR, ultra-detailed fabric textures, realistic skin pores, natural hair strands, volumetric lighting, cinematic color grading, soft golden glow, high dynamic range, premium editorial quality, hyper-realistic, lifelike, masterpiece, award-winning photography, 8K, ultra-sharp focus. Negative Prompt: low quality, blurry, cartoon, CGI, painting, anime, oversaturated, overexposed, deformed face, extra fingers, extra limbs, bad anatomy, distorted body, duplicate person, watermark, logo, text, noise, artifacts, cropped, unnatural pose, plastic skin, unrealistic lighting, poorly rendered clothing, low resolution.100% replace face.",
+    "filter": [
+      "Portrait",
+      "Aesthetic",
+      "Cinematic",
+      "Men's",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "106",
     "embedUrl": "https://www.instagram.com/p/DaxIvwMmpeu/?igsh=M3YybWh3MGJ5YXM5",
     "imageUrl": "/pins/8.webp",
