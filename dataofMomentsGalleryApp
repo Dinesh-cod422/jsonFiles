@@ -1,5 +1,23 @@
 [
   {
+    "id": "108",
+    "embedUrl": "https://www.instagram.com/p/Da5XrQmmsgC/?igsh=MWp1MmN3cHRwaGNuaQ==",
+    "imageUrl": "/pins/7.webp",
+    "title": "An ultra-realistic 8K cin...",
+    "author": "AestheticVibes",
+    "avatarUrl": "https://randomuser.me/api/portraits/men/48.jpg",
+    "prompt": "An ultra-realistic 8K cinematic portrait of a beautiful young South Indian woman standing gracefully on the wooden balcony of a traditional Kerala heritage house during golden hour. She has flawless warm wheatish skin, expressive deep brown eyes, naturally thick eyebrows, a tiny black bindi, soft peach lips, and a gentle, heartwarming smile while looking directly at the camera. Her long, naturally wavy black hair flows elegantly over one shoulder with realistic strands catching the warm sunlight. She wears a classic ivory Kasavu saree with a rich golden border paired with a dark emerald green embroidered blouse featuring intricate zari floral work on the sleeves. Traditional antique gold jhumka earrings, a delicate gold chain, stacked green glass bangles, and a minimal gold ring complete her elegant look. She leans casually on an aged wooden railing surrounded by lush green climbing vines and tropical leaves. The background features an authentic wooden Kerala-style ancestral home with carved pillars, warm interiors, hanging lamps, and soft glowing bokeh lights. Golden sunlight streams through the foliage, creating dreamy rim lighting, cinematic depth, volumetric light rays, natural shadows, and warm highlights. DSLR photography, 85mm lens, f/1.4 aperture, shallow depth of field, HDR, hyper-detailed skin texture, realistic hair physics, photorealistic fabric folds, ultra-sharp focus, luxury editorial fashion photography, premium color grading, masterpiece, best quality, highly detailed, Unreal Engine, Octane Render, cinematic atmosphere.\nNegative Prompt:\nlow quality, blurry, cartoon, anime, CGI, painting, illustration, oversaturated, deformed face, extra fingers, bad hands, duplicate, watermark, logo, text, cropped, noisy, plastic skin, unrealistic eyes, low resolution, artifacts, distorted anatomy\nThis prompt works well with Flux, Midjourney, SDXL, Ideogram, and ChatGPT Images to achieve a similar premium, photorealistic look.100% replace face.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Women's",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "107",
     "embedUrl": "https://www.instagram.com/p/Da0TVRqGmlM/?igsh=MXg0emxwdDR1c2hiaA==",
     "imageUrl": "/pins/3.webp",
