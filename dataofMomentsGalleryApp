@@ -1,5 +1,23 @@
 [
   {
+    "id": "109",
+    "embedUrl": "https://www.instagram.com/p/Da5YZdKmmBF/?igsh=emxzZWdyN3RsN2Ry",
+    "imageUrl": "/pins/1.webp",
+    "title": "Create an ultra-realistic...",
+    "author": "CinematicArt",
+    "avatarUrl": "https://randomuser.me/api/portraits/women/13.jpg",
+    "prompt": "Create an ultra-realistic 8K cinematic birthday poster featuring the uploaded person as the main subject. Design a premium double-exposure composition with a large close-up portrait on the left side, showing the face looking slightly upward with a calm, confident smile and expressive eyes. Add a second full-body version of the same person walking naturally toward the camera on a wet reflective road, creating a stylish cinematic feel. The person wears transparent square eyeglasses, a black-and-white abstract printed bomber jacket over a plain white crew-neck T-shirt, black cargo pants, a black smartwatch, and black-and-white sneakers. Their hair is thick, voluminous, and naturally styled with a neatly trimmed beard and mustache. Background: soft cloudy blue-grey sky with subtle mist, flying birds in the distance, dreamy atmosphere, gentle fog, shallow depth of field, realistic reflections on the wet road, smooth creamy bokeh, soft environmental haze. Lighting: cool-toned golden-hour cinematic lighting, soft diffused daylight, natural skin tones, HDR, volumetric light rays, realistic shadows, ultra-detailed facial features, premium color grading, DSLR quality, hyper-realistic textures. Typography: Minimal elegant birthday typography. Place \"HAPPY BIRTHDAY\" in small uppercase letters at the top-right, with the person's\" Hip-hop Aathi \"below in a modern font. Add a stylish handwritten signature of the name at the bottom-left with the birth date above it in elegant serif typography. Include a subtle quote: \"Stay Blessed & Keep Smiling.\" Composition: clean luxury poster layout, balanced spacing, magazine-quality design, realistic depth, high-end Instagram birthday edit, photorealistic, 8K, ultra-sharp, cinematic, premium poster aesthetic, trending social media artwork, --ar 4:5.100% replace face.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Men's",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "108",
     "embedUrl": "https://www.instagram.com/p/Da5XrQmmsgC/?igsh=MWp1MmN3cHRwaGNuaQ==",
     "imageUrl": "/pins/7.webp",
