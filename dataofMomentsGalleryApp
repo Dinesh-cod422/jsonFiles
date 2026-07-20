@@ -1,5 +1,22 @@
 [
   {
+    "id": "116",
+    "embedUrl": "https://www.instagram.com/p/DbAnnsXmufV/?igsh=NGtsejl3d2prejNw",
+    "imageUrl": "/pins/womenplaying.jpg",
+    "title": "Women Playing Prompt",
+    "prompt": "Create an EXTREMELY ULTRA-REALISTIC 8K cinematic South Indian traditional portrait using the uploaded reference image as the ONLY source of facial identity.\nFACE REFERENCE (HIGHEST PRIORITY): Preserve exactly:\nFace shape\nEyes\nEyebrows\nNose\nLips\nJawline\nSkin tone\nHairstyle & hairline\nNatural facial proportions\nFacial expression\nBeauty marks\nSmile\nDo NOT beautify, stylize, or replace the face. Maintain 100% facial identity.\n\nSCENE: A beautiful South Indian woman sitting gracefully on a rustic wooden swing decorated with fresh jasmine flower garlands and green vines in a lush tropical garden during golden hour. She looks directly at the camera with a warm, genuine smile while gently holding both swing ropes.\n\nOUTFIT:\nEmerald green fitted blouse with puff sleeves\nElegant cream/off-white Kerala-style long skirt (Kasavu style) with golden border\nTraditional gold necklace\nSmall gold jhumka earrings\nRed glass bangles\nJasmine flowers woven into her long hair\nNatural makeup\nSmall black bindi\n\nPOSE:\nSitting naturally on the swing\nOne foot slightly forward\nHands holding the ropes\nRelaxed shoulders\nSoft elegant posture\nFriendly joyful smile\n\nBACKGROUND:\nDense green garden\nTrees\nSoft grass\nWarm sunlight filtering through leaves\nCreamy green bokeh\nNatural outdoor setting\nCinematic depth\n\nLIGHTING:\nGolden-hour sunlight\nWarm rim lighting\nSoft natural skin tones\nHDR\nCinematic volumetric light rays\nSoft shadows\nHigh dynamic range\n\nCAMERA:\nSony A7R V\n85mm f/1.4 GM lens\nf/1.4 aperture\nEye autofocus\nUltra-shallow depth of field\nDSLR-quality realism\nPremium cinematic color grading\n\nQUALITY: Hyper-realistic, photorealistic, masterpiece, ultra-detailed skin texture, realistic hair strands, natural fabric folds, premium cinematic portrait, Unreal Engine quality, ray tracing, global illumination, HDR, volumetric lighting, 8K, award-winning photography.\nNegative Prompt: cartoon, anime, painting, illustration, CGI, plastic skin, low quality, blurry, watermark, logo, text, duplicate face, wrong facial identity, face swap, distorted face, deformed hands, extra fingers, bad anatomy, unrealistic lighting, oversaturated colors, cropped body, low resolution, artificial smile, beauty filter, AI artifacts.",
+    "filter": [
+      "Portrait",
+      "Cinematic",
+      "Aesthetic",
+      "Women's",
+      "Fashion",
+      "Artistic"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "115",
     "embedUrl": "https://www.instagram.com/p/DbAm4bXmi5X/?igsh=NDBrcng3bm16Y2g=",
     "imageUrl": "/pins/coupleromatics.jpeg",
