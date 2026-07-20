@@ -1,5 +1,22 @@
 [
   {
+    "id": "115",
+    "embedUrl": "https://www.instagram.com/p/DbAm4bXmi5X/?igsh=NDBrcng3bm16Y2g=",
+    "imageUrl": "/pins/coupleromatics.jpeg",
+    "title": "Couple Romantic Prompt",
+    "prompt": "Create an EXTREMELY ULTRA-REALISTIC 8K cinematic South Indian romantic movie poster using the uploaded reference images as the ONLY source of facial identity for both the man and the woman.\nFACE REFERENCE (HIGHEST PRIORITY): Preserve exactly:\nFace shape\nEyes\nEyebrows\nNose\nLips\nJawline\nSkin tone\nHairstyle & hairline\nNatural facial proportions\nFacial expression realism\nDo not stylize, beautify, or replace the faces.\n\nPOSTER COMPOSITION:\nVertical 4:5 cinematic movie poster.\nThree-layer storytelling composition.\nTop section: Woman looking back over her shoulder with a surprised, innocent expression, soft smile, warm traditional outfit, long wavy ponytail, subtle gold jhumka earrings.\nCenter section: Man facing the camera with a gentle smile, realistic casual shirt, warm cinematic lighting, shallow depth of field.\nBottom section: Romantic candid moment of the couple laughing together while naturally forming a heart shape with their hands, joyful expressions, genuine chemistry.\n\nBACKGROUND:\nDreamy evening atmosphere.\nDeep blue cinematic background.\nWarm golden glowing bokeh lights.\nSoft volumetric light rays.\nSlight fog and depth.\nPremium movie-poster mood.\n\nLIGHTING:\nWarm golden rim lighting around hair.\nSoft cinematic key light.\nNatural skin tones.\nHDR lighting.\nUltra-realistic shadows.\nHigh dynamic range.\n\nCAMERA:\nSony A7R V\n85mm portrait lens\nf/1.4 aperture\nUltra-shallow depth of field\nProfessional color grading\nSharp facial details\nFilmic contrast\n\nQUALITY: Hyper-realistic, photorealistic, masterpiece, award-winning romantic movie poster, ultra-detailed skin texture, natural eyes, realistic hair strands, premium cinematic color grading, HDR, volumetric lighting, global illumination, ray tracing, Unreal Engine quality, DSLR realism, 8K, extremely high detail.\nNegative Prompt:\ncartoon, anime, painting, illustration, CGI, low quality, blurry, duplicate face, wrong face, deformed hands, extra fingers, bad anatomy, oversaturated, plastic skin, watermark, logo, text, cropped, distorted face, artificial smile, low resolution, noise, artifacts, unrealistic lighting.",
+    "filter": [
+      "Cinematic",
+      "Portrait",
+      "Aesthetic",
+      "Love",
+      "Couple",
+      "Fashion"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "114",
     "embedUrl": "https://www.instagram.com/p/DbAlst3mnNA/?igsh=MXFnZm55eTM0MzNtcw==",
     "imageUrl": "/pins/templegodness.jpg",
