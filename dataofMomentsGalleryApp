@@ -1,5 +1,21 @@
 [
   {
+    "id": "119",
+    "embedUrl": "https://www.instagram.com/p/DbQojKZmnUo/?igsh=MW5jbmdhbjhnYmNhMg==",
+    "imageUrl": "/pins/baby1.jpg",
+    "title": "Cute kids prompts",
+    "prompt": "Create an EXTREMELY ULTRA-REALISTIC 8K DSLR cinematic portrait collage using the uploaded child photo as the ONLY facial reference, preserving 100% facial identity, including face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, ears, and natural child proportions.\nComposition:\nVertical Instagram portrait (4:5 ratio).\nOne large close-up portrait occupying the right side.\nOne elegant full-body portrait standing on the left.\nBoth portraits should have the exact same child face.\nOutfit:\nTraditional South Indian silk half-saree (Pattu Pavadai Davani).\nDeep magenta/pink blouse with intricate golden zari embroidery.\nWhite silk skirt with rich gold temple border.\nMatching magenta dupatta with luxurious gold embroidery.\nTraditional gold necklace, bangles, earrings, waist belt, and tiny flower hair accessories.\nPose:\nLarge portrait: resting chin on one hand with a soft innocent smile, looking slightly sideways.\nFull-body portrait: graceful standing pose holding one side of the skirt elegantly.\nBackground:\nDreamy palace garden.\nWarm golden sunset lighting.\nPink flowers.\nFloating butterflies.\nSoft glowing bokeh.\nGentle light rays.\nPremium fantasy atmosphere.\nLighting:\nSoft cinematic golden-hour lighting.\nStudio-quality skin rendering.\nNatural facial shadows.\nVolumetric glow.\nHigh dynamic range.\nSharp focus on the face with creamy background blur.\nStyle:\nLuxury Indian wedding photography.\nHyper-realistic.\nPremium color grading.\nDSLR quality.\nUltra-detailed fabric textures.\nNatural skin.\nBeautiful expressive eyes.\nPhotorealistic jewelry.\nMagical floral atmosphere.\nQuality Tags: 8K, Ultra HD, HDR, RAW photo, photorealistic, masterpiece, highly detailed, cinematic, premium portrait, DSLR, unreal engine quality, realistic lighting, depth of field, vibrant colors, luxury photography.\nNegative Prompt: blurry, low quality, cartoon, CGI, painting, extra fingers, extra arms, deformed face, crossed eyes, duplicate body, bad anatomy, watermark, logo, text, oversaturated skin, plastic skin, distorted jewelry, cropped head, unrealistic proportions.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Kids",
+      "Fashion"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "118",
     "embedUrl": "https://www.instagram.com/p/DbDySagmnHa/?igsh=MjBjcDVtdnl1ODU1",
     "imageUrl": "/pins/babywithdhosti.jpg",
