@@ -1,5 +1,22 @@
 [
   {
+    "id": "120",
+    "embedUrl": "https://www.instagram.com/p/DbV0awPmiQ3/?igsh=MW5sNTY1cm5lMmc1Yw==",
+    "imageUrl": "/pins/girlnurse.jpg",
+    "title": "Nursing girl prompt",
+    "prompt": "Create an ultra-realistic 8K DSLR portrait of a beautiful young Indian female doctor standing in a bright, modern hospital corridor. She has naturally curly black hair tied in a loose half-up hairstyle, expressive deep brown eyes, thick well-defined natural eyebrows, smooth glowing wheatish skin, and a warm, genuine smile while looking slightly to the side. She is wearing royal blue medical scrubs under a crisp white doctor's coat with a realistic black stethoscope around her neck.\nShe is holding a clipboard in one hand and writing with a silver pen using the other hand, conveying professionalism and compassion. She wears elegant small gold earrings and a delicate minimalist necklace.\nThe background features a clean, luxurious hospital hallway with large glass windows, soft blue accents, bright white circular ceiling lights, and a creamy cinematic bokeh effect. The lighting is soft natural daylight mixed with indoor ambient lighting, creating realistic skin tones and subtle facial shadows.\nCamera: Canon EOS R5, 85mm f/1.4 lens, shallow depth of field, eye-level composition, ultra-sharp facial details.\nStyle: Hyper-realistic, photorealistic, cinematic, HDR, natural colors, premium healthcare photography, magazine-quality, professional portrait, realistic skin texture, detailed hair strands, soft volumetric lighting, creamy background blur, ultra-detailed eyes, 8K resolution, masterpiece, highly detailed, award-winning medical portrait.\nNegative Prompt: blurry, low quality, cartoon, CGI, anime, painting, oversaturated colors, deformed hands, extra fingers, duplicate limbs, bad anatomy, unrealistic face, plastic skin, watermark, logo, text, noise, artifacts, cropped, out of frame, low resolution.100% replace face.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Women's",
+      "Fashion",
+      "Artistic"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "119",
     "embedUrl": "https://www.instagram.com/p/DbQojKZmnUo/?igsh=MW5jbmdhbjhnYmNhMg==",
     "imageUrl": "/pins/baby1.jpg",
