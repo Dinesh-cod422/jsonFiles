@@ -1,5 +1,21 @@
 [
   {
+    "id": "123",
+    "embedUrl": "https://www.instagram.com/p/DbYXAvrGrmd/?igsh=MTRrMmIzMThtaDl1eg==",
+    "imageUrl": "/pins/coupleprompt04.jpg",
+    "title": "Couple prompts 04",
+    "prompt": "Create an ultra-realistic 8K DSLR portrait of a young Indian couple in a lush green paddy field during golden hour sunset. The man is carrying the woman in his arms while both look directly at the camera with warm, genuine smiles. The man has a stylish voluminous haircut, neatly trimmed beard and mustache, glowing brown skin, a small black tilak on his forehead, a gold chain, and is wearing a fitted full-sleeve black shirt with rolled-up sleeves. The woman has naturally curly black hair tied in a loose bun decorated with a long jasmine flower garland (gajra), expressive dark brown eyes, thick natural eyebrows, glowing wheatish skin, a tiny black bindi, soft pink lips, and elegant traditional makeup. She is wearing a shimmering black designer saree with a matching short-sleeve blouse, black glass bangles, small gold jhumka earrings, and a delicate gold chain.\nThe pose is romantic and natural: her left arm gently wraps around his neck while his arms securely support her back and legs. The background features vibrant green rice fields, tall trees, and a dreamy golden sunset with cinematic bokeh. Warm sunlight creates a beautiful rim light around the couple, giving the image a magical glow. Ultra-sharp facial details, realistic skin texture, natural fabric folds, shallow depth of field, vibrant colors, soft HDR lighting, professional color grading, premium wedding photography style, Canon EOS R5, 85mm f/1.2 lens, f/1.8 aperture, high dynamic range, masterpiece, photorealistic, ultra-detailed, vertical 9:16 composition, no text, no watermark, no logo.100% replace face.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Love",
+      "Couple"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "122",
     "embedUrl": "https://www.instagram.com/p/DbYVUzAmvFN/?igsh=MTU5ZXFhbXZ6Mnp4",
     "imageUrl": "/pins/coupleprompt03.jpg",
