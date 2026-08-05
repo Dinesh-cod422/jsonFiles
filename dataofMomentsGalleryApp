@@ -1,5 +1,23 @@
 [
   {
+    "id": "138",
+    "embedUrl": "https://www.instagram.com/p/Dbpj8lYGjwP/?igsh=dHg5ZjlrcmVmZjFo",
+    "imageUrl": "/pins/wallpapercoupleprompt.jpg",
+    "title": "Couple wallpaper prompt #01",
+    "prompt": "📸 Ultra-Realistic Couple Heart Pose Prompt (Reference Image)\n\nCreate an EXTREMELY ULTRA-REALISTIC 8K DSLR cinematic couple portrait using the uploaded reference image(s) ONLY for the facial identity of both people. Ignore every UI element, overlay, watermark, timestamp, icons, text, likes, comments, and interface shown in the reference image.\n\n---\n\n🧑‍🤝‍🧑 FACE REFERENCE (HIGHEST PRIORITY)\n\nUse the uploaded reference image(s) ONLY.\n\nPreserve EXACTLY:\n\nFace shape\n\nEyes\n\nEyebrows\n\nNose\n\nLips\n\nJawline\n\nSkin tone\n\nHairstyle\n\nHairline\n\nBeard & mustache (if present)\n\nFacial proportions\n\nNatural smile\n\nEar shape\n\nOverall identity\n\nDo NOT change the identity of either person.\n\n---\n\n❤️ POSE\n\nRecreate the exact composition.\n\nCouple standing close together\n\nCamera positioned from a low-angle perspective\n\nBoth people looking directly into the camera\n\nTheir hands join together to create a perfect heart shape in the foreground\n\nHeads gently leaning toward each other\n\nRelaxed natural expressions\n\nRomantic chemistry\n\nFingers naturally aligned\n\nHeart shape centered in the frame\n\n---\n\n👕 OUTFIT\n\nMale\n\nBlue striped casual full-sleeve shirt\n\nNatural casual styling\n\nFemale\n\nBright traditional saree in vibrant green and red tones\n\nElegant earrings\n\nSmall red bindi\n\nRed flower tucked into the hair\n\nNatural makeup\n\n---\n\n🌤 SCENE\n\nBeautiful outdoor location\n\nOpen sky\n\nSoft clouds\n\nMinimal background distractions\n\nNatural environment\n\nClean composition\n\nRomantic atmosphere\n\n---\n\n☀️ LIGHTING\n\nNatural daylight\n\nSoft sunlight\n\nRealistic skin reflections\n\nBalanced highlights\n\nNatural shadows\n\nSoft ambient lighting\n\nProfessional outdoor photography\n\nHDR lighting\n\n---\n\n📷 CAMERA\n\nUltra-realistic DSLR photograph\n\nLow-angle shot\n\n35mm lens\n\nf/1.8 aperture\n\nSharp focus on faces\n\nHeart-shaped hands in crisp focus\n\nSoft background blur\n\nNatural depth of field\n\nProfessional framing\n\nEditorial photography quality\n\n---\n\n✨ QUALITY\n\nEXTREMELY ULTRA-REALISTIC\n\nTrue-to-life skin texture\n\nVisible pores\n\nNatural facial details\n\nPhotorealistic eyes\n\nDetailed hair strands\n\nHigh dynamic range\n\nAccurate skin tones\n\nProfessional color grading\n\nCinematic lighting\n\nPremium photography\n\nHyper-detailed\n\n8K UHD\n\nAward-winning portrait photography\n\n---\n\n🚫 REMOVE / IGNORE\n\nCompletely remove and ignore:\n\nClock\n\nDate\n\nMobile lock screen\n\nText\n\nIcons\n\nCamera icon\n\nFlashlight icon\n\nLike count\n\nComment count\n\nShare icon\n\nSwipe indicator\n\nWatermark\n\nSocial media UI\n\nAny overlay\n\nAny graphic elements\n\nThe final image should look like a clean professional DSLR photo, with no text or interface elements visible.\n\n---\n\n❌ NEGATIVE PROMPT\n\ncartoon, anime, illustration, painting, CGI, 3D render, blurry, low resolution, low quality, noisy image, watermark, logo, text, timestamp, mobile UI, lock screen, icons, likes, comments, social media overlay, cropped faces, duplicate people, extra fingers, extra hands, missing fingers, malformed hands, deformed anatomy, distorted face, unrealistic skin, oversaturated colors, flat lighting, bad proportions, artifacts, motion blur, out of frame, unnatural expressions, inaccurate facial identity, plastic skin, low detail, compression artifacts",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Love",
+      "Couple",
+      "Fashion",
+      "Artistic"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "137",
     "embedUrl": "https://www.instagram.com/p/Dbphj7mGiy7/?img_index=1&igsh=MWUwYjFpazFwbnB2aQ==",
     "imageUrl": "/pins/coupleoutingprompt.jpg",
