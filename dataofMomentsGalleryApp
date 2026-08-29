@@ -1,5 +1,22 @@
 [
   {
+    "id": "171",
+    "embedUrl": "https://www.instagram.com/p/DcoPUuzmhU2/?igsi=MThyenIyeHYxOHN0ZQ==",
+    "imageUrl": "/pins/weddingphotoshoot.jpg",
+    "title": "Wedding photoshoot",
+    "prompt": "Create an ultra-realistic cinematic wedding photograph inspired by the reference image. Recreate the EXACT SAME POSE, camera angle, framing, body positioning, and overall composition as the reference.\nA bride is standing behind the groom, with the groom lying down on the grass in front of her. The bride is positioned centrally above the groom, looking directly toward the camera, holding a small bouquet of white and soft yellow flowers near her waist. The groom is lying diagonally on his back across the bride's flowing dress, with his head positioned near her waist and his body extending toward the bottom-right of the frame. His hands are naturally resting together over his stomach.\nThe bride is wearing an elegant white bridal gown with delicate lace detailing and a large flowing circular skirt spread beautifully across the green grass, creating a dramatic heart/wing-like shape around both people. The groom is wearing a sophisticated dark navy three-piece suit, white shirt and tie, with a small boutonniere.\nCamera: top-down aerial photography, directly overhead, approximately 90-degree angle. Keep the exact perspective and spatial arrangement of the reference. Full-body composition, centered subjects, vertical portrait framing.\nLighting: soft natural daylight, evenly illuminated faces, realistic shadows, high dynamic range.\nStyle: luxury wedding editorial photography, cinematic, romantic, elegant, premium, ultra-photorealistic, realistic skin texture, natural facial details, realistic fabric texture, detailed lace, realistic grass.\n\nIMPORTANT: Do not change the pose, body orientation, camera angle, composition, dress spread, or relative position of the bride and groom. Do not create a different wedding pose. Match the reference image's visual arrangement as closely as possible while creating an original photograph.\nNegative prompt:\nside angle, eye-level camera, different pose, sitting pose, standing groom, different body positions, cropped bodies, distorted hands, extra fingers, duplicate people, deformed anatomy, unrealistic fabric, cartoon, illustration, CGI, blurry faces, low resolution.100% replace face.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Couple",
+      "Fashion",
+      "Love"
+    ],
+    "Tstatus": "New",
+    "TrendingPosition": 1
+  },
+  {
     "id": "170",
     "embedUrl": "https://www.instagram.com/p/DcoKn1zGpui/?igsi=MWl5c2JxYW84OW1naA==",
     "imageUrl": "/pins/photoshootglowlights.jpg",
