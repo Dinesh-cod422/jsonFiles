@@ -1,5 +1,21 @@
 [
   {
+    "id": "174",
+    "embedUrl": "https://www.instagram.com/p/DcycvEzGjo9/?igsi=MXNyb3k1YzJya3hrNA==",
+    "imageUrl": "/pins/girlwithheart.jpg",
+    "title": "Girl with heart symbol prompt",
+    "prompt": "Create a cinematic, ultra-realistic portrait of a young Indian woman with a warm, natural smile, looking directly at the camera. She has long, straight, dark black hair, styled half-up with subtle volume at the crown and a few soft strands framing her face. She is wearing a cozy ribbed pastel pink sweater with a round neckline and small simple gold hoop earrings.\nShe is making a cute finger-heart gesture with one hand near her shoulder, giving a playful and charming “pookie energy” expression. Natural facial features, soft expressive brown eyes, realistic skin texture, subtle makeup, natural lips, gentle youthful appearance.\nUse a soft pastel lavender-purple studio background with smooth lighting. Soft diffused cinematic lighting, flattering skin tones, shallow depth of field, realistic hair strands, detailed eyes, natural skin texture, professional portrait photography, 85mm lens, f/1.8, subtle bokeh, centered composition, medium close-up framing, photorealistic, high detail, Instagram-quality cinematic portrait.\nAvoid: text, logos, Instagram interface, watermark, excessive makeup, distorted hands, extra fingers, artificial skin, cartoon/anime appearance.\nIf you want the exact same pose + face from a reference image, add:\n“Preserve the reference image’s facial structure, hairstyle, expression, pose, clothing style and overall composition while keeping the result photorealistic.”100% replace face.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Women's",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "173",
     "embedUrl": "https://www.instagram.com/p/Dcq3ZLxmu-p/?igsi=Nnl3Mzh0OGIyYWZp",
     "imageUrl": "/pins/krishnababiesprompt1.jpg",
