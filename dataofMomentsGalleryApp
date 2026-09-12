@@ -1,5 +1,22 @@
 [
   {
+    "id": "195",
+    "embedUrl": "https://www.instagram.com/p/DdK1XZmmmXG/?stkn=d2U4Nzlkb2w3ZjJo",
+    "imageUrl": "/pins/80strend3.jpg",
+    "title": "80s trend #03",
+    "prompt": "Use the provided human reference image(s) ONLY for the identities of the male and female subjects. Preserve their exact facial features, skin tone, natural proportions, hairstyle characteristics, and recognizable identity without alteration.\n\nCreate an ultra-photorealistic 1980s South Indian vintage couple photograph, closely matching the reference composition: a stylish couple standing casually in front of a classic vintage red car, full-body vertical framing. The woman stands on the left with a relaxed smile, while the man stands beside her with one leg casually crossed over the other and a confident smile.\n\nGive them authentic 1980s fashion: woman wearing a bright pink puff-sleeve blouse, high-waisted floral midi/maxi skirt, pink retro accessories and small handbag; man wearing a loose cream patterned vintage shirt tucked into high-waisted faded blue jeans with a thick leather belt, retro aviator sunglasses, classic white sneakers and a vintage wristwatch.\n\nCreate a highly realistic 1985 South Indian street background with the classic car, weathered roadside architecture, trees, subtle period details and natural surroundings. Warm late-afternoon sunlight, realistic shadows, cinematic depth of field.\n\nAuthentic 35mm analog photography, warm nostalgic color grading, subtle film grain, gentle film halation, slightly faded 1980s colors, natural skin texture, realistic hair strands, detailed fabric and physically accurate hands/body proportions. Make it look like a genuine photograph taken in 1985, not AI-generated.\n\nRemove all social-media UI, captions, usernames, watermarks, logos, likes and interface elements. No modern objects, cars, buildings or technology.",
+    "filter": [
+      "Cinematic",
+      "Portrait",
+      "Aesthetic",
+      "Love",
+      "Couple",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "194",
     "embedUrl": "https://www.instagram.com/p/DdDmIYLGtQK/?stkn=d3A2dGNvdms2MnA=",
     "imageUrl": "/pins/80strend3.jpg",
