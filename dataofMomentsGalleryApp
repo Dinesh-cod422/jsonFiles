@@ -1,5 +1,22 @@
 [
   {
+    "id": "197",
+    "embedUrl": "https://www.instagram.com/p/DdK4yfSCmpu/?stkn=MXByaDh5aTdtdTJvbg==",
+    "imageUrl": "/pins/80strend5.jpg",
+    "title": "80s trend #05",
+    "prompt": "Use the provided human reference image(s) ONLY for the exact identities of the male and female subjects. Preserve their facial features, skin tone, natural proportions, hairstyle and recognizable identity accurately.\n\nCreate an ultra-photorealistic 1980s South Indian couple photograph, matching the reference composition: a close-up selfie-style portrait with the man in the foreground wearing a crisp white traditional shirt/veshti with a subtle gold border and gold chain, and the woman close beside him wearing a traditional purple/maroon silk saree with a gold border, jasmine flowers in her hair, gold earrings and necklace. Both smiling naturally toward the camera.\n\nSet them in a realistic old South Indian temple courtyard, with authentic stone pillars, devotees and traditional architecture softly blurred in the background. Warm natural sunlight, realistic skin texture, genuine expressions, shallow depth of field.\n\nAuthentic 1980s analog film look, warm faded tones, subtle film grain, slight lens softness, natural color fading, gentle light leaks and vintage photo texture, while keeping faces extremely sharp and photorealistic. Add a subtle aged photograph border. No modern objects, no social-media UI, no text, no watermark, no artificial-looking skin.",
+    "filter": [
+      "Cinematic",
+      "Portrait",
+      "Aesthetic",
+      "Love",
+      "Fashion",
+      "Couple"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "196",
     "embedUrl": "https://www.instagram.com/p/DdK2JPAGhR_/?stkn=YXljdmxyYXRjbTdl",
     "imageUrl": "/pins/80strend4.jpg",
