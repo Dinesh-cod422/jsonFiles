@@ -1,5 +1,22 @@
 [
   {
+    "id": "196",
+    "embedUrl": "https://www.instagram.com/p/DdK2JPAGhR_/?stkn=YXljdmxyYXRjbTdl",
+    "imageUrl": "/pins/80strend4.jpg",
+    "title": "80s Trend #04",
+    "prompt": "Use the provided human reference image(s) ONLY for the exact identities of the male and female subjects. Preserve their facial features, skin tone, natural proportions, hairstyle and recognizable identity accurately.\n\nCreate an ultra-photorealistic 1980s South Indian vintage couple photograph, closely matching the reference composition: the woman standing in the foreground smiling naturally, the man standing slightly behind her with one arm gently around her shoulder, both facing the camera. A classic vintage car is softly visible behind them.\n\nWoman wearing a beautiful 1980s floral-print saree with a contrasting blouse, simple gold hoop earrings and minimal traditional jewelry, with naturally voluminous 80s-style hair. Man wearing a vintage blue denim shirt, tucked into high-waisted beige trousers with a broad leather belt, gold chain and authentic 80s hairstyle.\n\nRealistic outdoor South Indian setting, old roadside surroundings, trees and vintage architecture, warm afternoon sunlight, natural shadows and subtle background blur. Authentic 35mm film photography, warm faded colors, fine film grain, soft halation, slight analog texture, nostalgic 1980s atmosphere, realistic skin texture, detailed fabric and natural expressions.\n\nMake it look like a genuine photograph taken in the 1980s, highly realistic and cinematic, not AI-generated. Remove all social-media UI, text, logos, watermarks and modern objects.",
+    "filter": [
+      "Cinematic",
+      "Portrait",
+      "Aesthetic",
+      "Love",
+      "Couple",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "195",
     "embedUrl": "https://www.instagram.com/p/DdK1XZmmmXG/?stkn=d2U4Nzlkb2w3ZjJo",
     "imageUrl": "/pins/80strend3.jpg",
