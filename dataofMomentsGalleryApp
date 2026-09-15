@@ -1,5 +1,23 @@
 [
   {
+    "id": "199",
+    "embedUrl": "https://www.instagram.com/p/DdU73Seky-8/?stkn=NGk1MXcyaGdlcGw2",
+    "imageUrl": "/pins/traditionalcoupleprompt2.jpg",
+    "title": "Traditional couple prompts #02",
+    "prompt": "Use the uploaded human reference photo(s) ONLY for the exact facial identity of each person. Preserve their real face shape, eyes, eyebrows, nose, lips, skin tone, hairline, hairstyle, age, proportions, and natural expression. Do not beautify, reshape, or change their identity.\n\nCreate an ultra-realistic South Indian couple portrait matching the reference composition: the man stands slightly behind and beside the woman with one arm naturally around her shoulder; both look directly at the camera with warm, subtle smiles. He wears a rich deep-purple traditional shirt with sleeves rolled slightly, paired with a crisp white Tamil veshti/dhoti featuring a thin gold border. She wears an elegant royal-blue and red traditional Indian outfit with intricate gold embroidery, matching jewelry, bangles, small bindi, and neatly styled long dark hair.\n\nRealistic warm indoor studio setting with a deep olive-brown textured backdrop, soft golden rim light, natural shadows, subtle depth, authentic skin texture and fabric details, realistic hands and anatomy, professional DSLR photography, 85mm portrait lens, shallow depth of field, cinematic lighting, photorealistic 8K quality.\n\nNo text, logos, watermark, social-media UI, cartoon/illustration look, plastic skin, face distortion, extra fingers, or artificial anatomy.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Love",
+      "Couple",
+      "Fashion",
+      "Artistic"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "198",
     "embedUrl": "https://www.instagram.com/p/DdU5e2QE9CL/?img_index=2&stkn=MWo5Mm41a2d3eG0w",
     "imageUrl": "/pins/traditionalcoupleprompt.jpg",
