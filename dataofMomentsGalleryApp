@@ -1,5 +1,22 @@
 [
   {
+    "id": "201",
+    "embedUrl": "https://www.instagram.com/p/DdVaywdmktR/?stkn=MWpqMmVmbDMyeDZmcA==",
+    "imageUrl": "/pins/coupleprompt3.jpg",
+    "title": "Couple prompt #03",
+    "prompt": "Use the uploaded human reference photo(s) ONLY for exact facial identity. Preserve their real facial features, skin tone, hairstyle, age, and proportions without beautification or identity changes.\n\nCreate an ultra-realistic cinematic South Indian couple portrait matching the reference composition: the man stands slightly behind the woman in a relaxed pose, wearing a crisp white traditional kurta with dark trousers; the woman stands beside him wearing an elegant peach-pink saree with delicate floral embroidery and a matching blouse, subtle gold jewelry and bangles. Natural expressions, soft confident gaze, realistic body proportions.\n\nPlace them in front of an authentic ornate Indian heritage doorway with hand-painted floral and elephant motifs, aged wood, carved stone pillars and subtle architectural details. Warm natural morning light, realistic textures, soft background depth, DSLR 85mm photography, cinematic bokeh, natural skin texture, photorealistic 8K detail.\n\nNo text, logos, watermark, social-media UI, plastic skin, distorted faces, extra fingers, or artificial anatomy.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Love",
+      "Couple",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "200",
     "embedUrl": "https://www.instagram.com/p/DdVHIueCd1w/?stkn=MWZjZWllNG1qeXhjOA==",
     "imageUrl": "/pins/sunlightouchingprompt.jpg",
