@@ -1,5 +1,22 @@
 [
   {
+    "id": "204",
+    "embedUrl": "https://www.instagram.com/p/DdkZGJIE-RC/?stkn=MW84d3JubWttazhoMA==",
+    "imageUrl": "/pins/watercolorprompt2.jpg",
+    "title": "Watercolor prompt #02",
+    "prompt": "Use the uploaded human reference photo ONLY for the person’s exact facial identity. Preserve the real face shape, eyes, nose, lips, skin tone, hairstyle, age, and natural expression.\n\nCreate a stylish ultra-realistic artistic portrait matching the reference: the woman wears a colorful pastel multicolor saree with pink, blue, yellow and white watercolor-style patterns, paired with a simple white blouse. Long natural black hair in a thick side braid, elegant silver jhumka earrings and stacked silver bangles. She gently touches her cheek and looks slightly to the side with a soft natural smile.\n\nCreate a realistic editorial watercolor-splash background in warm cream tones, with subtle green, yellow, pink and blue paint textures blending naturally behind the subject while keeping her photorealistic. Soft studio lighting, detailed skin and fabric texture, clean portrait composition, premium fashion photography, 85mm lens, photorealistic 8K.\n\nNo text, name, watermark, logo, social-media UI, cartoon face, excessive retouching, distorted hands, extra fingers, or artificial anatomy.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Fashion",
+      "Artistic",
+      "Women's"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "203",
     "embedUrl": "https://www.instagram.com/p/DdkXoEiE8F0/?stkn=MTZ2bXhodm04Mjhkbg==",
     "imageUrl": "/pins/babyshowerprompt2.jpg",
