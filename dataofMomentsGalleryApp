@@ -1,5 +1,22 @@
 [
   {
+    "id": "210",
+    "embedUrl": "https://www.instagram.com/p/DdtH7Ltml42/?stkn=czJpbTZyOXU4dW94",
+    "imageUrl": "/pins/kissonhercheeks.jpg",
+    "title": "Kiss on her cheeks",
+    "prompt": "Create an ultra-realistic, high-resolution photographic recreation of the uploaded reference image. Use the uploaded image as the STRICT MASTER REFERENCE for the entire composition. Do not redesign, reinterpret, rearrange, crop, zoom, mirror, or change the framing. Preserve the exact portrait orientation, camera angle, perspective, character placement, body positions, pose, hand positions, facial direction, head angles, distance between the couple, proportions, and overall composition of the original image.\n\nReplace ONLY the faces of the two people using the separately provided face-reference images. The supplied faces must remain highly faithful to their references: preserve facial structure, face shape, eyes, eyebrows, nose, lips, jawline, skin tone, hairline, age, and natural facial proportions. Do not alter, beautify, stylize, merge, or redesign their identities. Blend the replacement faces naturally with the original head position, lighting, shadows, skin texture, and perspective.\n\nKeep the clothing EXACTLY like the master image. The man must retain the same dark textured knitted sweater, and the woman must retain the same white/off-white flowing dress with delicate ruffled sleeves and layered fabric details. Do not change the garments, colors, textures, folds, accessories, hairstyle, or styling.\n\nPreserve the exact intimate pose: the man positioned behind and leaning toward the woman, gently kissing her cheek, while the woman has her eyes closed with a subtle peaceful smile. Preserve their intertwined hands and the exact placement of the arms and fingers.\n\nMaintain the same dark, simple indoor background, soft studio-like illumination, monochrome black-and-white appearance, gentle contrast, subtle shadows, realistic skin texture, natural highlights, shallow depth of field, and sophisticated romantic atmosphere.\n\nThe final result must look like an authentic professional photograph captured with a high-end camera, not AI-generated. No extra people, objects, decorations, text, watermark, altered anatomy, distorted hands, changed clothing, changed pose, or composition modifications. Prioritize identity accuracy, photographic realism, and exact visual matching to the uploaded reference.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Couple",
+      "Fashion",
+      "Love"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "209",
     "embedUrl": "https://www.instagram.com/p/DdtE3npmrlm/?stkn=MXR0dDF4ZjB2b3owdg==",
     "imageUrl": "/pins/maternityphotoshoot.jpg",
