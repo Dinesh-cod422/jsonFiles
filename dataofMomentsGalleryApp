@@ -1,5 +1,23 @@
 [
   {
+    "id": "212",
+    "embedUrl": "https://www.instagram.com/p/DdwR4eQGr0q/?img_index=3&stkn=MTNqMWkxZzg3M2lsaQ==",
+    "imageUrl": "/pins/casualoutfitprompt.jpg",
+    "title": "Casual outfit unisex prompt",
+    "prompt": "Use the uploaded image as the STRICT MASTER REFERENCE for the person, pose, outfit, proportions, and overall composition.\n\nCreate a full-body, ultra-realistic editorial fashion portrait combined with hand-painted watercolor artwork, matching the visual style of the reference image.\n\nCOMPOSITION & POSE\n\nFull body visible from head to shoes.\n\nVertical portrait format, approximately 4:5.\n\nPerson standing/walking naturally toward the camera.\n\nPreserve realistic human anatomy and natural body proportions.\n\nOne leg slightly forward in a relaxed walking pose.\n\nArms and hands positioned naturally.\n\nKeep the subject centered with generous clean negative space around the figure.\n\nCamera at approximately eye/chest level with a slightly editorial fashion-photography perspective.\n\nEntire body, both shoes, hands, and accessories must remain visible.\n\nDo not crop the head, feet, hands, or body.\n\nPERSON & FACE Use the supplied face/person reference accurately. Preserve the person's natural facial identity, facial structure, face shape, eyes, eyebrows, nose, lips, jawline, skin tone, hairline, hairstyle, age appearance, and natural proportions. The face must look photorealistic and naturally integrated with the body. Do not create an exaggerated cartoon face.\n\nOUTFIT Keep the outfit exactly as shown in the master reference:\n\nblack long-sleeve sweatshirt\n\ndark gray cargo pants\n\nbrown leather crossbody messenger bag\n\nbrown leather shoulder strap crossing the chest\n\nwristwatch\n\nbeige/gray casual sneakers\n\nrealistic clothing folds and fabric texture\n\nnatural wrinkles and shadows Do not redesign, recolor, replace, remove, or add clothing or accessories.\n\nART STYLE Create a sophisticated combination of:\n\nphotorealistic person\n\npremium fashion editorial photography\n\nhand-painted watercolor illustration\n\nsubtle digital painting integration\n\nrealistic skin and clothing texture\n\nsoft natural shadows\n\npolished professional finish\n\nThe person should remain highly realistic, while the background and surrounding artistic elements should have a beautiful watercolor-paint aesthetic.\n\nBACKGROUND Use a clean warm/off-white or ivory background.\n\nBehind the person, create a large artistic turquoise/teal and muted gray watercolor paint-splash composition:\n\nirregular watercolor washes\n\ntranslucent overlapping brush strokes\n\npaint splatters\n\nsmall droplets\n\nsoft feathered watercolor edges\n\ndarker gray watercolor accents\n\nturquoise and muted teal dominant tones\n\nscattered artistic droplets extending outward\n\nlayered watercolor textures\n\nsubtle paint marks underneath the feet\n\nThe watercolor artwork should appear naturally painted behind the person, creating a stylish fashion-poster composition.\n\nLIGHTING Soft bright studio lighting. Natural skin highlights. Gentle realistic shadows underneath the person. Clean high-key editorial appearance. No dramatic dark cinematic lighting. No strong colored lighting on the face.\n\nFINAL LOOK The final image should look like a premium fashion magazine portrait mixed with a hand-painted watercolor poster.\n\nPhotorealistic human subject + artistic watercolor background.\n\nClean, elegant, modern, minimal, sophisticated, high detail, realistic skin texture, realistic clothing, natural anatomy, professional commercial photography quality, sharp facial details, subtle depth, beautiful watercolor texture.\n\nSTRICTLY AVOID No extra people. No duplicate limbs. No extra fingers. No distorted hands. No altered body proportions. No cartoon body. No completely painted/illustrated person. No new accessories. No different outfit. No background scenery. No buildings. No trees. No furniture. No text. No logos. No watermark. No border. No social-media UI. No page numbers. No cropping of feet. No cropped head. No excessive shadows. No dark cinematic atmosphere.\n\nThe final result should closely resemble the uploaded full-body watercolor fashion portrait reference, with the person remaining realistic and the turquoise/gray watercolor splash artwork surrounding them.",
+    "filter": [
+      "Cinematic",
+      "Portrait",
+      "Aesthetic",
+      "Men's",
+      "Women's",
+      "Fashion",
+      "Artistic"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "211",
     "embedUrl": "https://www.instagram.com/p/DdwNsYyGu7M/?stkn=b3k5MXJiazVvMGI4",
     "imageUrl": "/pins/masscolorfulposemen.jpg",
