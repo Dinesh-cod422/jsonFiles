@@ -1,5 +1,23 @@
 [
   {
+    "id": "214",
+    "embedUrl": "https://www.instagram.com/p/Dd8hdePGrsJ/?stkn=MXRhN3U4N3p6MHQ0eg==",
+    "imageUrl": "/pins/retrocarspose.jpg",
+    "title": "Retro car with pose",
+    "prompt": "Use the uploaded human reference photo only for the exact identity of the person. Preserve the face shape, facial features, eyes, nose, lips, skin tone, hairstyle, and natural appearance accurately.\n\nCreate a highly realistic vintage black-and-white cinematic portrait matching the reference composition. The man is standing casually beside and leaning against an old vintage car. Keep his body slightly angled toward the car, but turn his head and face directly toward the camera, with both eyes clearly visible and a calm, confident, natural expression. His face should be the main visual focus while maintaining the same relaxed body posture.\n\nHe wears a relaxed dark denim button-up shirt, slightly open at the upper chest with a simple pendant necklace visible, paired with casual denim jeans. Keep the clothing naturally textured and realistic.\n\nSet the scene in an authentic old industrial environment with weathered walls, aged architecture, and the vintage car visible around him. Use soft natural daylight with cinematic shadows, subtle highlights, realistic skin texture, gentle film grain, and an authentic monochrome photographic tone.\n\nUse a three-quarter/full-body composition, keeping the person and a substantial portion of the vintage car visible. Do not zoom closely, do not crop the body, and do not turn the face sideways or downward. The face must be front-facing toward the camera while preserving the overall pose, framing, vintage atmosphere, and proportions of the reference.\n\nPhotorealistic DSLR photography, natural anatomy, realistic hands, detailed denim texture, authentic vintage film look, subtle depth of field, high detail, no artificial skin smoothing, no cartoon effect, no text, no watermark, no logos.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Men's",
+      "Women's",
+      "Fashion",
+      "Artistic"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "213",
     "embedUrl": "https://www.instagram.com/p/Dd8UhkJGkXr/?stkn=ZWUwamR1MWxzZnU4",
     "imageUrl": "/pins/coupleprompt5.jpg",
