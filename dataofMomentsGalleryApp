@@ -1,5 +1,23 @@
 [
   {
+    "id": "215",
+    "embedUrl": "https://www.instagram.com/p/Dd8mKl5mnxb/?stkn=MXA5bjNhdGl3N3Y3ag==",
+    "imageUrl": "/pins/carfrintseatselfie.jpg",
+    "title": "Car front seat selfie",
+    "prompt": "@Create image Use my uploaded image as the exact identity and facial reference. Create a realistic cinematic photo of me sitting in the driver's seat of a modern car, facing the camera with a calm, confident expression. Keep my facial features, hairstyle, skin tone, and overall appearance recognizable and natural.\n\nMatch the reference scene: close-up framing from inside the car, visible steering wheel at the bottom, beige leather seat/interior, dark tinted surroundings, strong natural sunlight and realistic shadows. Use a slightly low front-facing camera angle, authentic photography, sharp facial details, subtle cinematic contrast, and realistic skin texture.\n\nOutput must be exactly 3:4 portrait. No text, UI elements, logos, watermarks, icons, or extra people.",
+    "filter": [
+      "Cinematic",
+      "Portrait",
+      "Aesthetic",
+      "Men's",
+      "Women's",
+      "Fashion",
+      "Artistic"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "214",
     "embedUrl": "https://www.instagram.com/p/Dd8hdePGrsJ/?stkn=MXRhN3U4N3p6MHQ0eg==",
     "imageUrl": "/pins/retrocarspose.jpg",
