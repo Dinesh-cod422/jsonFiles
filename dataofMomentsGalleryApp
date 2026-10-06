@@ -1,5 +1,25 @@
 [
   {
+    "id": "225",
+    "embedUrl": "https://www.instagram.com/p/DeJCav2mjDP/?stkn=MW94YWt0cXV4OXB2eg==",
+    "imageUrl": "/pins/cartoonbigheadfunny.jpg",
+    "title": "Cartoon big head funny 😅",
+    "prompt": "Use the uploaded photo only as the identity reference. Preserve the person's unmist identity, age, skin tone, ethnicity, eye color and recognizable facial features.\n\nIgnore the reference photo's clothing, pose, body position, background, lighting, camera quality and photography style. Do not copy clothes from the reference.\n\nCreate an ultra-realistic, wildly exaggerated editorial caricature of the same person. Give the\n\ncharacter an enormously oversized head and an absurdly tiny full body, but do not simply enlarge a normal realistic face.\n\nAggressively exaggerate the facial anatomy itself while keeping the identity clearly recognizable.\n\nPush the naturally distinctive facial features far beyond realistic proportions: dramatically enlarged expressive eyes, exaggerated eyebrows and forehead, stretched or compressed nose, enlarged cheeks, wider mouth, oversized grin or lips, expressive teeth, ears, jaw and facial asymmetry as appropriate to the individual. Different facial features should be exaggerated by different amounts according to what makes that person visually distinctive. The result should feel ridiculous, elastic, expressive and intentionally caricatured, not like a photographic face pasted\n\nonto a tiny body.\n\nCreate a strong personality-driven expression suited to the subject: mischievous grin, wild excitement, cheeky side-eye, playful arrogance, mock seriousness, rebellious confidence, innocent surprise, eccentric charm or another fitting attitude. Push the eyes, brows, cheeks and mouth dramatically. Avoid normal smiles, neutral expressions or safe portrait posing.\n\nAutomatically create a new pose and body language based on the character's age and personality. Use expressive crossed arms, hand-on-hip attitude, leaning stance, dynamic action pose, dramatic gesture, playful stance or another fitting pose. Keep the tiny body stylized, with a short neck and exaggerated posture so the entire character participates in the caricature.\n\nCreate a completely new outfit from scratch that matches the generated personality and age rather than the reference image: premium streetwear, fashion editorial, elegant, sporty, artistic, quirky, traditional-inspired, rebellious or sophisticated styling as appropriate. Add tasteful accessories only when they strengthen the character.\n\nFor children, keep clothing, pose and expression completely age-appropriate, playful and innocent. For older people, preserve their real age, wrinkles and mature character; never de-age\n\nthem.c\n\nFull-body 3:4 vertical composition, giant head dominating the frame, tiny body fully visible, clean white or light-neutral seamless studio background, balanced headroom, slightly low or eye-level editorial perspective.\n\nUse premium soft studio lighting, crisp highlights, controlled shadows, realistic depth, hyper-detailed skin pores, wrinkles, hair strands, facial hair, eyes, teeth, fabric and accessories. Reconstruct clean, sharp facial detail from low-quality selfies without changing identity. Keep the face extremely sharp and zoom-safe.\n\nStyle: hyper-real caricature photography, exaggerated editorial portrait, absurd proportions, playful high-fashion energy, realistic materials, cinematic studio finish, funny, bold, charismatic, memorable.\n\nAvoid: normal realistic facial proportions, simple bobblehead look, large body, weak exaggeration, copying reference outfit, copying reference pose, generic T-shirt, boring standing pose, neutral smile, identity drift, beautification, de-aging, plastic skin, CGI texture, cartoon/anime style, malformed hands, extra fingers or limbs, blurry face, cluttered background, text, logo or watermark.",
+    "filter": [
+      "Cinematic",
+      "Aesthetic",
+      "Portrait",
+      "Women's",
+      "Men's",
+      "Fashion",
+      "3D",
+      "Anime",
+      "Artistic"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "224",
     "embedUrl": "https://www.instagram.com/p/DeJAroYGrkt/?stkn=MWQzYmlwdHlyamNobw==",
     "imageUrl": "/pins/tomandjerrycouple.jpg",
