@@ -1,5 +1,24 @@
 [
   {
+    "id": "224",
+    "embedUrl": "https://www.instagram.com/p/DeJAroYGrkt/?stkn=MWQzYmlwdHlyamNobw==",
+    "imageUrl": "/pins/tomandjerrycouple.jpg",
+    "title": "Cartoon Tom and Jerry couple",
+    "prompt": "Use the uploaded human reference photo(s) only as identity references for the human couple. Preserve their exact recognizable facial features, face shape, eyes, nose, lips, hairstyle, skin tone, age, and natural appearance. Do not copy clothing or background from the human reference.\n\nCreate a highly realistic cinematic couple portrait matching the reference image composition. A young man and woman are sitting closely together on a wooden bench, smiling naturally toward the camera. The man sits on the left-center and the woman beside him on the right, with the man's arm comfortably around her shoulders. Both have relaxed, affectionate expressions and natural body language.\n\nThe man wears an oversized cream/white T-shirt featuring a cute Tom cartoon graphic, loose black jeans, white sneakers, glasses and a smartwatch. The woman wears a matching oversized cream/white sweatshirt featuring Jerry cartoon artwork, loose black jeans and clean white sneakers. Keep the clothing casual, youthful and realistic with natural fabric folds.\n\nPlace a large, highly detailed realistic 3D Tom character sitting beside the couple on the left, casually leaning toward them. Place a smaller realistic 3D Jerry character sitting on the bench behind the couple on the right, happily waving toward the camera. Tom and Jerry should look like polished cinematic animated characters while naturally integrated into the photographic environment.\n\nSet the scene on a beautiful rooftop terrace during sunset, with a warm orange-pink sky, distant city skyline, soft evening haze, wooden railing, green plants and warm string lights hanging overhead. Golden-hour sunlight creates beautiful rim lighting and reflections across the subjects.\n\nUse photorealistic DSLR photography, realistic skin texture, detailed hair, natural hands and fingers, authentic clothing texture, cinematic depth of field, warm golden color grading, soft bokeh, realistic shadows and natural proportions.\n\nDo not zoom closely. Use a wide/medium-full composition, showing both people from head to shoes, the entire bench area, Tom and Jerry, rooftop floor and plenty of sunset background. Keep the same overall arrangement, sitting posture and visual balance as the reference. No text, watermark, social-media icons, distorted anatomy, extra fingers, duplicated characters, plastic skin or cartoon-style humans.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Couple",
+      "Love",
+      "3D",
+      "Anime",
+      "Fashion"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "223",
     "embedUrl": "https://www.instagram.com/p/DeJAAB0mlwl/?stkn=MWg1NzQ3MmpqdDNsaQ==",
     "imageUrl": "/pins/animationcartoonstyle.jpg",
