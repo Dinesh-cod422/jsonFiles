@@ -1,5 +1,22 @@
 [
   {
+    "id": "226",
+    "embedUrl": "https://www.instagram.com/p/DeJF2GZmp9x/?stkn=MTM2bzRmbjh1Z2NtbA==",
+    "imageUrl": "/pins/marriagecouplephotoshoot.jpg",
+    "title": "Marriage couple photoshoot",
+    "prompt": "Use the supplied human reference photo(s) ONLY as identity references for the couple. Preserve each person’s recognizable facial structure, eyes, nose, lips, skin tone, hairstyle, age, and natural appearance. Do not copy the clothing, pose, background, lighting, or photography style from the human reference.\n\nRecreate the overall composition of the provided reference image as a highly realistic cinematic South Indian couple portrait. Show the couple standing together in a romantic, elegant wedding or engagement setting filled with soft lavender and purple flowers. The man stands slightly behind the woman, gently embracing her from behind with his arms naturally around her waist. The woman stands in front with her hands relaxed and gracefully placed together around her waist. Both face the camera directly with warm, natural smiles and affectionate expressions. Keep their posture relaxed and realistic.\n\nDress the woman in an elegant lavender-purple silk saree with a rich golden zari border and detailed traditional embroidery, complemented by tasteful South Indian bridal jewelry, layered necklace, earrings, bangles, and a subtle forehead ornament. Dress the man in an elegant cream/off-white traditional kurta or sherwani with refined texture and minimal embroidery.\n\nCreate a dreamy luxury wedding backdrop with abundant purple blossoms, soft glowing lights, pastel lavender tones, delicate floral branches, and beautiful depth. Add softly blurred flowers in the foreground for natural depth and a premium photography feel. Use warm diffused lighting on the faces, realistic skin texture, natural shadows, cinematic color grading, shallow depth of field, and detailed fabric and jewelry.\n\nUse a vertical portrait composition with a comfortable medium/full-body framing. Keep both people clearly visible from approximately mid-thigh or knees upward, with enough surrounding environment and flowers. DO NOT create a close-up or tightly cropped portrait. Maintain natural proportions, realistic hands and fingers, accurate facial symmetry, and photorealistic details. No Instagram interface, text, logos, watermarks, icons, borders, or screenshot elements.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Love",
+      "Couple",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "225",
     "embedUrl": "https://www.instagram.com/p/DeJCav2mjDP/?stkn=MW94YWt0cXV4OXB2eg==",
     "imageUrl": "/pins/cartoonbigheadfunny.jpg",
