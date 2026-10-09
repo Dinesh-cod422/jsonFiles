@@ -1,5 +1,22 @@
 [
   {
+    "id": "230",
+    "embedUrl": "https://www.instagram.com/p/DeRPUZUCpbI/?mdxt=djFidjBzM3BkYmJz",
+    "imageUrl": "/pins/mentraditionalwearwalking.jpg",
+    "title": "Men traditional wear with walking",
+    "prompt": "Use the supplied human reference image ONLY to preserve the exact identity, facial structure, skin tone, natural hair characteristics, and recognizable appearance of the person. Do not copy the reference image’s clothing, pose, background, lighting, or composition.\n\nCreate a premium ultra-realistic vertical 9:16 full-body traditional South Indian portrait. Show the person standing confidently in the center, with the entire body visible from head to feet and generous space around the subject. Do NOT crop or zoom closely. Keep the face clearly visible and facing directly toward the camera, with a confident, charming expression and natural eye contact.\n\nDress the subject in a deep wine-maroon traditional South Indian kurta with a sophisticated asymmetrical overlapping front panel, long sleeves naturally rolled slightly toward the forearms, and realistic soft silk/cotton texture. Pair it with a pristine traditional white veshti/dhoti featuring a prominent rich golden zari border. The veshti should be naturally draped with realistic folds, and one hand should gently hold the edge of the veshti in a stylish, relaxed manner.\n\nRecreate the distinctive confident pose: one hand raised naturally toward the face, gently touching or styling the moustache, while the other hand holds the veshti edge. Stand with a subtle relaxed leg position, creating a charismatic traditional portrait stance. Preserve realistic anatomy, hands, fingers, proportions, fabric folds, and footwear.\n\nUse a dark, elegant studio background with deep brown-black textured shadows and subtle atmospheric smoke/haze. Add warm cinematic rim lighting around the shoulders and hair, soft directional key lighting on the face, gentle highlights on the maroon fabric and gold border, and controlled dramatic shadows. The overall mood should feel sophisticated, masculine, traditional, cinematic, and premium.\n\nPhotorealistic professional studio photography, natural skin texture, realistic hair strands, detailed moustache, authentic South Indian styling, high dynamic range, subtle film grain, shallow background depth while keeping the full body sharp, realistic colors, refined editorial composition, 8K detail. No text, no logos, no watermark, no social-media icons, no cropping, no close-up.\n\nAdditionally, use all of the uploaded reference images provided with this prompt as small raw reference-image thumbnails in the bottom-right corner of the final image. The number of reference images may vary depending on the upload, so include every uploaded reference image without assuming a fixed number. Arrange all reference images neatly together in the bottom-right corner, using a compact, clean layout that fits the available images without covering the main subject. Keep each reference image exactly as uploaded — do not regenerate, redraw, modify, retouch, recolor, beautify, crop important facial features, or change the people, clothing, background, or composition inside the reference images. These are only raw visual reference thumbnails and must remain clearly recognizable as the original uploaded images. Do not use the reference images as the main scene. The main generated image must remain unchanged and occupy the full composition; the uploaded reference images should only appear as a small reference-image collection in the bottom-right corner. If only one reference image is uploaded, show one; if two are uploaded, show two; if four are uploaded, show four, and so on. Never invent additional reference images.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Men's",
+      "Artistic",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "229",
     "embedUrl": "https://www.instagram.com/p/DeRJt5FGo6f/?dlrf=a3hkYXltZ21hbnBu",
     "imageUrl": "/pins/coupltopangle.jpg",
