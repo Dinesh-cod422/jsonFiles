@@ -1,5 +1,23 @@
 [
   {
+    "id": "232",
+    "embedUrl": "https://www.instagram.com/p/DeRo7DJmiGM/?exln=MTZ6M2R4aTloOWFw",
+    "imageUrl": "/pins/radhakrishnanprompts.jpg",
+    "title": "Radha & krishna prompts",
+    "prompt": "Use the supplied human reference image(s) only to preserve the exact identity, facial structure, skin tone, eyes, hair characteristics and recognizable appearance of the people. Do not copy the reference clothing, background, pose or lighting.\n\nCreate a highly detailed, photorealistic cinematic devotional portrait inspired by Lord Krishna and Radha. Show both characters together in a vertical 9:16 composition, framed from approximately mid-torso upward with enough surrounding space so the image does NOT feel like an extreme close-up. Krishna stands slightly behind and to the left, while Radha stands slightly in front on the right, their faces close together in a graceful romantic devotional arrangement. Both faces should be clearly visible, naturally proportioned and looking slightly toward the same direction rather than directly at the camera, matching the reference composition.\n\nKrishna has luminous natural blue skin, voluminous dark curly hair, an ornate golden crown decorated with a prominent peacock feather, jeweled forehead ornament, traditional golden earrings and multiple layered pearl-and-gem necklaces. Radha wears an elegant deep red traditional Indian outfit richly embroidered with intricate golden patterns, elaborate gold jewelry, layered necklaces, ornate earrings, maang tikka, delicate nose ring with chain, and traditional forehead bindi. Her long dark wavy hair flows naturally around her shoulders.\n\nUse a dramatic black studio-like background with subtle warm golden rim lighting and soft highlights around their hair and jewelry. Rich jewel tones, realistic metallic reflections, detailed gemstones, natural skin texture, cinematic depth, soft atmospheric glow, sophisticated devotional atmosphere, premium Indian mythological artwork aesthetic, ultra-realistic photography, high dynamic range, extremely detailed fabric and jewelry.\n\nPreserve realistic anatomy, natural expressions and believable proportions. Keep both subjects comfortably within the frame with visible shoulders, upper clothing and jewelry. No extreme face enlargement, no tight crop, no distorted facial features, no extra fingers, no duplicate jewelry, no text, no watermark, no logos.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Couple",
+      "Love",
+      "Fashion",
+      "Artistic"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "231",
     "embedUrl": "https://www.instagram.com/p/DeRW80pGtn8/?psln=MWNyeTN2am9sOHY5Nw==",
     "imageUrl": "/pins/godmurugaeithgirl.jpg",
