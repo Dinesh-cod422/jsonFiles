@@ -1,5 +1,23 @@
 [
   {
+    "id": "237",
+    "embedUrl": "https://www.instagram.com/p/DeZpx6JGsKi/?cplk=c21rZjFmcW83ZW9n",
+    "imageUrl": "/pins/girlwithflowers.jpg",
+    "title": "Flower with girls",
+    "prompt": "Use the supplied human reference image strictly as the identity reference. Preserve the person’s exact recognizable facial identity, facial structure, proportions, eyes, eyebrows, nose, lips, jawline, skin tone, natural facial texture, hairstyle and overall appearance. Do not beautify, reshape, slim, age, or alter the face. Create a photorealistic four-panel vertical portrait collage featuring the same woman consistently in all four panels.\nDress her in an elegant deep maroon traditional Indian outfit with delicate golden floral embroidery, a matching embroidered dupatta, traditional jhumka earrings and subtle bangles. She holds a large fresh bouquet of vibrant yellow sunflowers with lush green leaves in every scene. Keep her appearance, hairstyle, clothing and jewelry consistent across all panels.\nPanel 1: three-quarter portrait, woman looking gently toward the camera with a soft confident smile, bouquet held naturally in front of her. Panel 2: relaxed side-facing pose, eyes looking downward toward the sunflowers with a peaceful expression, warm sunlight illuminating her hair. Panel 3: elegant over-the-shoulder portrait, woman turning slightly toward the camera with a subtle smile while holding the bouquet lower beside her. Panel 4: dreamy intimate pose, woman gently looking down at and smelling the sunflower bouquet, eyes softly closed, peaceful expression.\nSet all four scenes in the same beautiful outdoor garden during golden hour, with lush greenery, soft flowers and warm sunlight in the background. Use creamy cinematic bokeh, glowing sun flare, natural rim lighting and shallow depth of field. Make every panel feel like a professional editorial photograph while maintaining realistic skin texture, natural hair strands, detailed fabric embroidery and lifelike flowers.\nCreate a clean four-panel 2x2 collage with thin elegant dividing lines. Each panel should have a different pose and expression but identical identity and styling. Keep medium-to-wide portrait framing with the upper body clearly visible and enough surrounding environment. Do NOT zoom closely, do NOT crop the head or shoulders. Photorealistic, warm, romantic, sophisticated, cinematic photography, natural proportions, realistic hands and fingers, high detail, no text, no watermark, no distorted anatomy.",
+    "filter": [
+      "Portrait",
+      "Cinematic",
+      "Aesthetic",
+      "Women's",
+      "Fashion",
+      "Collage",
+      "Artistic"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "236",
     "embedUrl": "https://www.instagram.com/p/DeZbPG5mreW/?exln=MXBqZGk1amQ5MXIyeg==",
     "imageUrl": "/pins/girlwithtoy.jpg",
