@@ -1,5 +1,21 @@
 [
   {
+    "id": "235",
+    "embedUrl": "https://www.instagram.com/p/DeZN6pXms5G/?vrfl=YW16cmM1Nzc2d3Jt",
+    "imageUrl": "/pins/butterflywings.jpg",
+    "title": "Butterfly wing to women",
+    "prompt": "Use the supplied human reference image strictly as the identity reference for the person. Preserve the exact recognizable facial identity, facial structure, proportions, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hair characteristics and authentic appearance. Maintain strong identity consistency and realistic facial proportions. Do not beautify, reshape, slim, age, or modify the face. Do not copy the reference person’s original clothing, pose, background, lighting or composition. Identity accuracy is the highest priority.\nCreate an ultra-photorealistic cinematic full-body portrait of the person standing confidently on a modern rooftop terrace overlooking a beautiful city skyline during golden hour. The subject stands naturally near a rooftop concrete railing, with a relaxed posture and one hand casually placed inside the front pocket of the jeans while the other arm hangs naturally by the side. The pose should feel effortless, youthful and stylish.\nDress the person in a loose oversized vivid orange short-sleeve T-shirt tucked slightly into high-waisted light-wash fitted jeans, paired with clean white low-top sneakers. Keep the clothing realistic with natural folds, stitching, fabric texture and believable proportions. The outfit should have a simple contemporary streetwear aesthetic with no visible brand logos.\nBehind the person, create a large pair of magical luminous angel wings made from elegant white hand-drawn linework. The wings should extend symmetrically outward from behind the shoulders, with many detailed layered feathers drawn in glowing white strokes. The wings should look like artistic celestial light illustrations rather than physical bird wings, with subtle luminous edges and delicate sparkling highlights. Add a small glowing halo above the person’s head, also created as a thin white hand-drawn luminous line. Surround the subject with a few tiny glowing stars, sparkles and magical celestial doodle elements distributed naturally around the wings.\nSet the scene on a spacious rooftop terrace with realistic concrete flooring, subtle architectural walls and a metal railing. In the background, show a modern metropolitan skyline with several high-rise buildings softly blurred by atmospheric depth. The sky should be clear blue transitioning gently toward warm sunset tones near the horizon. Use golden-hour sunlight from the side and behind the subject, creating warm rim lighting around the hair and shoulders while retaining natural skin tones.\nUse a vertical 4:5 composition and a medium-wide full-body camera distance. Show the entire person from head to shoes with comfortable space above the halo, around the wings and below the feet. DO NOT zoom closely into the face. DO NOT crop the shoes, wings, hair or body. Keep the entire magical composition visible.\nUltra-photorealistic photography, realistic skin pores, detailed hair strands, authentic hands and fingers, natural anatomy, realistic denim and cotton textures, cinematic depth of field, subtle atmospheric haze, high dynamic range, balanced exposure, premium editorial fashion photography and polished fantasy lifestyle aesthetic.\nAvoid cartoon characters, artificial plastic skin, distorted anatomy, extra fingers, duplicated limbs, malformed wings, uneven wing placement, excessive glow, oversaturation, extreme close-up framing, cropped feet, fake-looking skyline or unrealistic facial changes.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Women's",
+      "Fashion"
+    ],
+    "Tstatus": "Popular",
+    "TrendingPosition": 1
+  },
+  {
     "id": "234",
     "embedUrl": "https://www.instagram.com/p/DeR3sILmh4f/?srtk=MXh4em5hYTFvM2YwZQ==",
     "imageUrl": "/pins/yogiprompt.jpg",
