@@ -1,5 +1,21 @@
 [
   {
+    "id": "238",
+    "embedUrl": "https://www.instagram.com/p/Dea62FEmj4w/?mdxt=eTNwMmcyZ29mY3Ux",
+    "imageUrl": "/pins/girlwithmultipleimages.jpg",
+    "title": "Girl with multiple images prompt",
+    "prompt": "Use the provided human reference image strictly as the identity reference. Preserve the person’s exact recognizable facial identity, facial structure, proportions, eyes, eyebrows, nose, lips, jawline, skin tone, natural skin texture, hairstyle and overall appearance. Do not beautify, reshape, slim, age, or alter the face. Do not copy the reference person’s clothing, pose, background, lighting or composition.\nCreate an ultra-photorealistic cinematic Indian fashion editorial portrait featuring the same person as the main subject. She is seated gracefully in the center, wearing an elaborate deep wine-red and magenta lehenga with intricate antique-gold embroidery, a richly decorated fitted blouse, and a flowing sheer dupatta draped elegantly around both arms. Add luxurious traditional gold jewelry: layered statement necklace with red gemstone accents, matching ornate earrings and subtle traditional details.\nHer long, voluminous dark hair flows naturally over one shoulder. Pose her with both hands resting gracefully near her lap, body slightly angled, head gently turned toward the side, eyes looking downward with a calm, elegant and thoughtful expression. Keep the posture natural and sophisticated.\nCreate a dramatic deep crimson-red studio background with subtle smoky texture and cinematic gradients. Behind the main subject, create a creative multi-frame collage containing five separate monochrome black-and-white portraits of the same person, each showing a different natural pose and expression: smiling sideways, looking downward, smiling upward, elegant three-quarter pose, and a soft side profile. Place these grayscale portraits vertically behind her like artistic photographic panels, with thin dark borders and subtle depth.\nAdd a large, faint artistic close-up of the person’s eyes and upper face blended into the red background as a soft double-exposure element. Keep the collage sophisticated, balanced and premium, with the central color portrait clearly dominant.\nUse warm directional studio lighting on the main subject, subtle red rim lighting, realistic skin texture, detailed embroidery, natural hair strands and cinematic shadows. Vertical fashion-poster composition, medium-to-full upper-body framing, camera positioned at a comfortable distance. Do NOT zoom closely or create a tight face crop. Keep the full outfit, arms, hands and surrounding collage visible. Ultra-realistic DSLR photography, 50mm lens aesthetic, rich cinematic color grading, editorial luxury fashion campaign, realistic anatomy and premium poster finish.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Women's",
+      "Fashion"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "237",
     "embedUrl": "https://www.instagram.com/p/DeZpx6JGsKi/?cplk=c21rZjFmcW83ZW9n",
     "imageUrl": "/pins/girlwithflowers.jpg",
