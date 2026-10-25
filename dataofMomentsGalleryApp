@@ -1,5 +1,21 @@
 [
   {
+    "id": "245",
+    "embedUrl": "https://www.instagram.com/p/De68FtxGjOS/?obrf=MTY4ZHFvb3p2bnRwbg==",
+    "imageUrl": "/pins/alaipayutheyrecewation.jpg",
+    "title": "Alaipayuthey recreation prompt",
+    "prompt": "Use the uploaded human reference image as the identity reference and accurately preserve the person’s facial identity, facial structure, skin tone, eyes, nose, lips, hairstyle, and natural body proportions. Create an ultra-realistic, high-resolution cinematic photograph of a young South Indian couple seated closely together on outdoor stone steps, recreating the same intimate pose and composition as the reference image. The woman sits slightly in front of the man, wearing a simple bright turquoise-blue saree with a matching short-sleeved blouse, natural pleats flowing over her legs. She has long, thick, naturally voluminous dark hair falling freely over her shoulders, minimal traditional jewelry and a delicate bangle. Her left hand is raised slightly forward in a casual conversational gesture. The man sits directly behind her, leaning gently toward her, wearing a matching bright turquoise-blue casual shirt with light-colored trousers. His arms naturally wrap around her waist, with his hands resting gently over her hands, creating the same affectionate pose. Both subjects should look natural and emotionally connected.\nUse a medium-full portrait framing, keeping the camera pulled back and showing the couple’s complete seated posture, clothing, legs, and surrounding environment. DO NOT zoom closely into their faces. Do not crop the bodies. Recreate the nostalgic early-2000s Indian romantic photography aesthetic with authentic natural skin texture, realistic hair strands, detailed fabric folds, subtle film grain, soft natural daylight, realistic shadows, and slight photographic imperfections. The background should resemble a simple older Indian home entrance with muted walls, doorway details, and stone steps, softly blurred while remaining recognizable. Use natural depth of field, balanced exposure, realistic DSLR optics, cinematic composition, photorealistic skin, accurate anatomy, realistic hands and fingers, detailed turquoise-blue clothing, authentic Indian atmosphere, ultra-detailed 8K high resolution.\nMaintain the exact overall body positioning, seated arrangement, affectionate interaction, camera angle, and visual balance of the reference composition while adapting the people to the uploaded human reference identity. Avoid excessive beauty filters or artificial skin smoothing.\nNegative prompt: close-up, extreme face crop, zoomed-in portrait, cropped bodies, standing pose, different pose, altered identity, different facial features, modern fashion, exaggerated makeup, plastic skin, cartoon, painting, CGI appearance, distorted hands, extra fingers, missing fingers, duplicated limbs, malformed anatomy, unnatural faces, oversharpening, excessive blur, unrealistic saree folds, text, watermark, logo.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Love",
+      "Couple"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "244",
     "embedUrl": "https://www.instagram.com/p/De3j_D0Gs-4/?xtok=MW9zMnA4cmRxN2pkcQ==",
     "imageUrl": "/pins/mersalrecreationcouple.jpg",
