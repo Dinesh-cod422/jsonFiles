@@ -1,5 +1,21 @@
 [
   {
+    "id": "246",
+    "embedUrl": "https://www.instagram.com/p/De7OyS9nw-Y/?vrfl=MWVkczV3bWkzaWx3dg==",
+    "imageUrl": "/pins/bodhikalpakrecreation.jpg",
+    "title": "Bodhi kalpak recreation prompt",
+    "prompt": "Use the uploaded human reference image strictly as the identity reference. Preserve the person’s exact facial identity, facial structure, skin tone, hairstyle, hair texture, natural body proportions, and recognizable features. Recreate the reference scene with an extremely close match to the original composition, camera perspective, body posture, walking movement, clothing style, lighting, background, and cinematic photography aesthetic.\nCreate an ultra-realistic high-resolution cinematic photograph of the person walking naturally toward the camera outdoors. Match the reference walking pose precisely: relaxed confident stride, torso naturally upright, shoulders slightly relaxed, one arm naturally swinging beside the body while the opposite arm moves subtly with the walking motion, realistic hand positioning, natural leg movement, and believable mid-step posture. The person should look slightly toward the side rather than directly at the camera, maintaining the same calm, serious, confident expression and head angle shown in the reference. Keep the entire upper body and legs naturally proportioned and visible; do not make the framing excessively close.\nRecreate the same outfit aesthetic: a relaxed, premium soft-white or off-white linen button-down shirt, worn naturally untucked with a clean relaxed drape. Leave the top 2–3 buttons undone and roll both sleeves uniformly to the elbows. Preserve realistic linen texture, natural wrinkles, soft fabric folds, and an effortless sophisticated appearance. Pair it with high-waisted, tailored beige, cream, or light-grey straight-fit linen trousers, creating a clean sophisticated fall over simple dress shoes or loafers. The trousers should maintain a refined straight silhouette without being skinny or oversized. Do not tuck the shirt into the trousers.\nThe core accessories should match the reference character’s signature swagger: black-tinted aviator or rectangular sunglasses with thin gold frames, naturally fitted on the face; a thin, understated silver neck chain visible through the open shirt collar; and a minimal silver wrist bangle on the wrist. Keep the accessories elegant, subtle, realistic, and proportionate. Do not add unnecessary jewelry or accessories.\nMatch the warm outdoor cinematic atmosphere with a softly blurred dark-green natural background, strong golden-hour sunlight, warm rim lighting around the hair and shoulders, gentle highlights on the face and clothing, shallow depth of field, creamy natural bokeh, realistic skin texture, subtle filmic contrast, and premium professional photography. Use a portrait vertical composition with enough surrounding environment visible to preserve the same spacious framing. Natural lens perspective, realistic shadows, physically accurate lighting, detailed fabric texture, sharp facial features, photorealistic skin, HDR-like dynamic range, cinematic color grading, 8K-quality detail.\nDo not zoom closely into the face. Do not change the walking pose, body proportions, camera angle, framing, expression, outfit structure, or overall visual style. Avoid artificial beauty retouching, plastic skin, exaggerated muscles, distorted hands, extra fingers, warped limbs, cartoon appearance, excessive sharpening, or unrealistic anatomy.",
+    "filter": [
+      "Cinematic",
+      "Portrait",
+      "Aesthetic",
+      "Men's",
+      "Fashion"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "245",
     "embedUrl": "https://www.instagram.com/p/De68FtxGjOS/?obrf=MTY4ZHFvb3p2bnRwbg==",
     "imageUrl": "/pins/alaipayutheyrecewation.jpg",
