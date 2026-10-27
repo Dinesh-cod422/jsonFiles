@@ -1,5 +1,22 @@
 [
   {
+    "id": "248",
+    "embedUrl": "https://www.instagram.com/p/De_Uz4zGi4_/?psln=MWo0bmF2NW9vMjl0OA==",
+    "imageUrl": "/pins/sillunuorukadhalprompt.jpg",
+    "title": "Sillunu oru kadhal prompt",
+    "prompt": "Use the uploaded human reference photo as the PRIMARY AND STRICT IDENTITY REFERENCE for the person/people. Reproduce the person's face with the highest possible identity fidelity. Preserve the exact facial identity, facial structure, face shape, forehead, eyebrows, eyes, eye spacing, eyelids, nose shape and proportions, cheeks, cheekbones, lips, mouth shape, jawline, chin, ears, skin tone, skin texture, hairline, hairstyle, and all recognizable facial characteristics from the provided reference. Do not beautify, redesign, replace, age, de-age, or reinterpret the face. The generated person's face must remain clearly recognizable as the same person shown in the uploaded reference. Identity accuracy has the highest priority.\n\nRecreate the provided scene with extremely close fidelity to the reference image's composition, pose, body positioning, camera angle, framing, clothing, exact clothing colors, expressions, lighting, background, depth of field, and photographic style.\n\nCreate a highly realistic romantic portrait of a young Indian couple standing very close together. The man stands slightly behind and beside the woman, leaning naturally toward her and looking affectionately at her face. The woman stands slightly in front, leaning comfortably toward him, eyes gently closed with a natural joyful smile. Match the exact head angles, shoulder positions, body spacing, posture, and intimate interaction from the reference.\n\nSTRICT CLOTHING COLORS: The man's sweater must be LIGHT OLIVE GREEN / SOFT PASTEL LIGHT GREEN, exactly matching the reference. Never make it dark green, forest green, emerald green, or deep olive. His inner shirt is WHITE with thin LIGHT-BLUE vertical stripes. The woman's outfit and dupatta are VIVID BRIGHT PINK, matching the reference exactly. Do not alter, darken, desaturate, or substitute any clothing colors.\n\nUse warm golden-hour lighting, realistic skin texture, soft facial highlights, subtle hair rim light, and creamy golden-green bokeh. Vertical portrait, medium upper-body framing, natural perspective, realistic proportions, premium DSLR photography, shallow depth of field, detailed fabric texture, realistic hands, HDR, cinematic color grading, ultra-photorealistic 8K quality. Do not zoom closely or crop tightly. Preserve comfortable space around the couple. No text, logos, watermark, Instagram UI, or extra people.",
+    "filter": [
+      "Aesthetic",
+      "Cinematic",
+      "Portrait",
+      "Love",
+      "Couple",
+      "Fashion"
+    ],
+    "Tstatus": "Trending",
+    "TrendingPosition": 1
+  },
+  {
     "id": "247",
     "embedUrl": "https://www.instagram.com/p/De9gFbCmkui/?cplk=MWYwZjVkbHNncXg0aQ==",
     "imageUrl": "/pins/thalaivacoupleprompt.jpg",
